@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: TFG 2024 Daniel Borja (Weblog)
+title: TFG 2025 Daniel Pérez (Weblog)
 email:
 description: Memoria por semanas del desarrollo de mi trabajo de fin de grado
 #twitter_username: username
-github_username: dborja2021
+github_username: dperezg2021
 minimal_mistakes_skin: dark
 search: true
 
@@ -55,22 +55,14 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Daniel Borja Fernández"
-  avatar : "/assets/images/bio-photo.jpg"
+  name   : "Daniel Pérez Gómez"
+  avatar : "/assets/ddezlogo.png"
   bio    : "Estudiante del grado de Ingeniería en Sistemas Audiovisuales y Multimedia en la Universidad Rey Juan Carlos"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/dborja2021"
-#    - label: "Linkedin"
- #     icon: "/images/linkedin.png"
-#      url: "https://www.linkedin.com/in/daniel-borja-fern%C3%A1ndez-810b77163/"
-    #- label: "Twitter"
-    #  icon: "fab fa-fw fa-twitter-square"
-    #  url: "https://twitter.com/"
-    #- label: "Instagram"
-    #  icon: "fab fa-fw fa-instagram"
-    #  url: "https://instagram.com/"
+      url: "https://github.com/dperezg2021"
+
 
 footer:
   links:
