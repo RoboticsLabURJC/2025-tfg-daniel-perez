@@ -56,7 +56,7 @@ plugins:
 
 author:
   name   : "Daniel Pérez Gómez"
-  avatar : "/assets/ddezlogo.png"
+  avatar : "/assets/images/ddezlogo.png"
   bio    : "Estudiante del grado de Ingeniería en Sistemas Audiovisuales y Multimedia en la Universidad Rey Juan Carlos"
   links:
     - label: "GitHub"
