@@ -5,7 +5,7 @@ import numpy as np
 # Configuración
 # ==============================
 
-PATCH_PATH = "sub_imagen4.png"      # tu parche pequeño (puede tener negro)
+PATCH_PATH = "sub_imagen4.png"      # parche pequeño
 BIG_PATH   = "pattern_2.png"       # imagen grande
 
 OUT_OVERLAY = "overlay_mask4.png"
@@ -176,4 +176,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
