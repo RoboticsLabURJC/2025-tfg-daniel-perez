@@ -267,7 +267,7 @@ def make_overlay(image_path, rgb_seg, points_xyz, lidar_labels, R, t, K, out_pat
     vis = img.copy()
     H, W = rgb_seg.shape
 
-    # colores simples por clase (solo para ver algo)
+    # colores simples por clase
     rng = np.random.default_rng(1234)
     unique_cls = np.unique(lidar_labels)
     color_map = {
@@ -325,11 +325,11 @@ def main():
         R0=R0,
         t0=t0,
         K=K,
-        N=400,                 # < 500
-        rot_range_deg=2.0,     # prueba también 1.0 o 3.0
-        trans_range=0.05,      # metros
+        N=400,                 
+        rot_range_deg=2.0,     
+        trans_range=0.05,      
         ignore_labels=ignore_labels,
-        neighborhood=3,        # 0 = pixel exacto, 1 = vecindad 3x3
+        neighborhood=3,        
         seed=42
     )
 
@@ -379,4 +379,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
