@@ -1,0 +1,4140 @@
+{
+  "num_casos_ok": 96,
+  "num_casos_error": 1,
+  "casos_ok": [
+    {
+      "scene_id": "0075",
+      "calib_path": "test_GOOSE\\2022-07-22_flight-0075_1658494242083534022-calib.json",
+      "image_path": "test_GOOSE\\2022-07-22_flight-0075_1658494242083534022-image.png",
+      "points_path": "test_GOOSE\\2022-07-22_flight-0075_1658494242083534022-points.bin",
+      "labels_path": "test_GOOSE\\2022-07-22_flight-0075_1658494242083534022-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2022-07-22_flight-0075_1658494242083534022-pred.png",
+      "initial_bbox": [
+        0,
+        29,
+        1024,
+        500
+      ],
+      "coarse_score": 0.024803992360830307,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        29
+      ],
+      "refined_score": 0.10108375148049764,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        7,
+        36
+      ],
+      "best_top_left_original": [
+        14,
+        72
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.05684458615614136,
+        "2": 0.10034201832998028,
+        "3": 0.0,
+        "4": 0.04991602231058006,
+        "5": 0.38646828877668143,
+        "6": 0.0,
+        "8": 1.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "0112",
+      "calib_path": "test_GOOSE\\2022-07-22_flight-0112_1658494312147916688-calib.json",
+      "image_path": "test_GOOSE\\2022-07-22_flight-0112_1658494312147916688-image.png",
+      "points_path": "test_GOOSE\\2022-07-22_flight-0112_1658494312147916688-points.bin",
+      "labels_path": "test_GOOSE\\2022-07-22_flight-0112_1658494312147916688-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2022-07-22_flight-0112_1658494312147916688-pred.png",
+      "initial_bbox": [
+        0,
+        1,
+        1024,
+        500
+      ],
+      "coarse_score": 0.016410499811172485,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        1
+      ],
+      "refined_score": 0.056384521334289825,
+      "best_rotation_deg": 10.0,
+      "best_top_left_working": [
+        5,
+        18
+      ],
+      "best_top_left_original": [
+        10,
+        36
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.0409622417944461,
+        "2": 0.14381703824871575,
+        "3": 0.0,
+        "4": 0.11426343713022451,
+        "5": 0.0,
+        "6": 0.0,
+        "8": 1.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "0114",
+      "calib_path": "test_GOOSE\\2022-07-22_flight-0114_1658494315660481257-calib.json",
+      "image_path": "test_GOOSE\\2022-07-22_flight-0114_1658494315660481257-image.png",
+      "points_path": "test_GOOSE\\2022-07-22_flight-0114_1658494315660481257-points.bin",
+      "labels_path": "test_GOOSE\\2022-07-22_flight-0114_1658494315660481257-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2022-07-22_flight-0114_1658494315660481257-pred.png",
+      "initial_bbox": [
+        0,
+        1,
+        1024,
+        500
+      ],
+      "coarse_score": 0.05439072474837303,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        0
+      ],
+      "refined_score": 0.1585482242883045,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        2,
+        -1
+      ],
+      "best_top_left_original": [
+        4,
+        -2
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.09253344142220339,
+        "2": 1.0,
+        "3": 0.0,
+        "4": 0.37068185422790706,
+        "5": 0.0,
+        "6": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "0123",
+      "calib_path": "test_GOOSE\\2022-07-22_flight-0123_1658494337982343425-calib.json",
+      "image_path": "test_GOOSE\\2022-07-22_flight-0123_1658494337982343425-image.png",
+      "points_path": "test_GOOSE\\2022-07-22_flight-0123_1658494337982343425-points.bin",
+      "labels_path": "test_GOOSE\\2022-07-22_flight-0123_1658494337982343425-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2022-07-22_flight-0123_1658494337982343425-pred.png",
+      "initial_bbox": [
+        0,
+        0,
+        1024,
+        500
+      ],
+      "coarse_score": 0.0649501159787178,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        0
+      ],
+      "refined_score": 0.21195315875525192,
+      "best_rotation_deg": 4.0,
+      "best_top_left_working": [
+        6,
+        -2
+      ],
+      "best_top_left_original": [
+        12,
+        -4
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.15742085348813228,
+        "2": 1.0,
+        "3": 0.0,
+        "4": 0.5397664581395424,
+        "5": 0.0,
+        "6": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "0134",
+      "calib_path": "test_GOOSE\\2022-07-22_flight-0134_1658494407426613719-calib.json",
+      "image_path": "test_GOOSE\\2022-07-22_flight-0134_1658494407426613719-image.png",
+      "points_path": "test_GOOSE\\2022-07-22_flight-0134_1658494407426613719-points.bin",
+      "labels_path": "test_GOOSE\\2022-07-22_flight-0134_1658494407426613719-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2022-07-22_flight-0134_1658494407426613719-pred.png",
+      "initial_bbox": [
+        0,
+        45,
+        1024,
+        500
+      ],
+      "coarse_score": 0.08534376323223114,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        45
+      ],
+      "refined_score": 0.16533061089538018,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        2,
+        47
+      ],
+      "best_top_left_original": [
+        4,
+        94
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.18038079108535945,
+        "2": 1.0,
+        "3": 0.0,
+        "4": 0.5968684082804024,
+        "5": 0.0,
+        "6": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "0153",
+      "calib_path": "test_GOOSE\\2022-07-22_flight-0153_1658494449899119700-calib.json",
+      "image_path": "test_GOOSE\\2022-07-22_flight-0153_1658494449899119700-image.png",
+      "points_path": "test_GOOSE\\2022-07-22_flight-0153_1658494449899119700-points.bin",
+      "labels_path": "test_GOOSE\\2022-07-22_flight-0153_1658494449899119700-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2022-07-22_flight-0153_1658494449899119700-pred.png",
+      "initial_bbox": [
+        0,
+        80,
+        1024,
+        500
+      ],
+      "coarse_score": 0.053060561418533325,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        61
+      ],
+      "refined_score": 0.14230757224157323,
+      "best_rotation_deg": -2.0,
+      "best_top_left_working": [
+        3,
+        75
+      ],
+      "best_top_left_original": [
+        6,
+        150
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.1044234298666101,
+        "2": 1.0,
+        "3": 0.0,
+        "4": 0.23504138033216845,
+        "5": 0.0,
+        "6": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "0187",
+      "calib_path": "test_GOOSE\\2022-07-22_flight-0187_1658494553236304081-calib.json",
+      "image_path": "test_GOOSE\\2022-07-22_flight-0187_1658494553236304081-image.png",
+      "points_path": "test_GOOSE\\2022-07-22_flight-0187_1658494553236304081-points.bin",
+      "labels_path": "test_GOOSE\\2022-07-22_flight-0187_1658494553236304081-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2022-07-22_flight-0187_1658494553236304081-pred.png",
+      "initial_bbox": [
+        0,
+        18,
+        1024,
+        500
+      ],
+      "coarse_score": 0.12694092094898224,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        9
+      ],
+      "refined_score": 0.35228832436265517,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        7,
+        14
+      ],
+      "best_top_left_original": [
+        14,
+        28
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.13144028108994157,
+        "2": 0.3385569478722547,
+        "3": 0.0,
+        "4": 1.0,
+        "5": 0.0,
+        "6": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "0191",
+      "calib_path": "test_GOOSE\\2022-07-22_flight-0191_1658494577520210012-calib.json",
+      "image_path": "test_GOOSE\\2022-07-22_flight-0191_1658494577520210012-image.png",
+      "points_path": "test_GOOSE\\2022-07-22_flight-0191_1658494577520210012-points.bin",
+      "labels_path": "test_GOOSE\\2022-07-22_flight-0191_1658494577520210012-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2022-07-22_flight-0191_1658494577520210012-pred.png",
+      "initial_bbox": [
+        0,
+        0,
+        1024,
+        500
+      ],
+      "coarse_score": 0.006260706577450037,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        0
+      ],
+      "refined_score": 0.019800375418314628,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        7,
+        -10
+      ],
+      "best_top_left_original": [
+        14,
+        -20
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.006744488432086688,
+        "2": 0.015772905337148327,
+        "3": 0.0,
+        "4": 0.036576301298011794,
+        "5": 1.0,
+        "6": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "0195",
+      "calib_path": "test_GOOSE\\2022-07-22_flight-0195_1658494596120446131-calib.json",
+      "image_path": "test_GOOSE\\2022-07-22_flight-0195_1658494596120446131-image.png",
+      "points_path": "test_GOOSE\\2022-07-22_flight-0195_1658494596120446131-points.bin",
+      "labels_path": "test_GOOSE\\2022-07-22_flight-0195_1658494596120446131-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2022-07-22_flight-0195_1658494596120446131-pred.png",
+      "initial_bbox": [
+        0,
+        23,
+        1024,
+        486
+      ],
+      "coarse_score": 0.014566927216947079,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        21
+      ],
+      "refined_score": 0.03238501454060227,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        1,
+        20
+      ],
+      "best_top_left_original": [
+        2,
+        40
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.02000262991100866,
+        "2": 0.333737619711528,
+        "3": 0.0,
+        "4": 0.06861194404064058,
+        "5": 0.0,
+        "6": 0.0,
+        "8": 1.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "0212",
+      "calib_path": "test_GOOSE\\2022-07-22_flight-0212_1658494654612255926-calib.json",
+      "image_path": "test_GOOSE\\2022-07-22_flight-0212_1658494654612255926-image.png",
+      "points_path": "test_GOOSE\\2022-07-22_flight-0212_1658494654612255926-points.bin",
+      "labels_path": "test_GOOSE\\2022-07-22_flight-0212_1658494654612255926-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2022-07-22_flight-0212_1658494654612255926-pred.png",
+      "initial_bbox": [
+        0,
+        30,
+        1024,
+        500
+      ],
+      "coarse_score": 0.02664349228143692,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        25
+      ],
+      "refined_score": 0.05392266683567998,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        15,
+        26
+      ],
+      "best_top_left_original": [
+        30,
+        52
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.013068932415573596,
+        "2": 0.07133263788646035,
+        "3": 0.0,
+        "4": 1.0,
+        "5": 0.0,
+        "6": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "0235",
+      "calib_path": "test_GOOSE\\2022-07-22_flight-0235_1658494760847022256-calib.json",
+      "image_path": "test_GOOSE\\2022-07-22_flight-0235_1658494760847022256-image.png",
+      "points_path": "test_GOOSE\\2022-07-22_flight-0235_1658494760847022256-points.bin",
+      "labels_path": "test_GOOSE\\2022-07-22_flight-0235_1658494760847022256-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2022-07-22_flight-0235_1658494760847022256-pred.png",
+      "initial_bbox": [
+        0,
+        0,
+        1024,
+        500
+      ],
+      "coarse_score": 0.13801822066307068,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        0
+      ],
+      "refined_score": 0.32484514751563615,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        -13,
+        -4
+      ],
+      "best_top_left_original": [
+        -26,
+        -8
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.29255844146731785,
+        "2": 1.0,
+        "3": 0.0,
+        "4": 0.8742372514603883,
+        "5": 0.0,
+        "6": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "0241",
+      "calib_path": "test_GOOSE\\2022-07-22_flight-0241_1658494782343583777-calib.json",
+      "image_path": "test_GOOSE\\2022-07-22_flight-0241_1658494782343583777-image.png",
+      "points_path": "test_GOOSE\\2022-07-22_flight-0241_1658494782343583777-points.bin",
+      "labels_path": "test_GOOSE\\2022-07-22_flight-0241_1658494782343583777-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2022-07-22_flight-0241_1658494782343583777-pred.png",
+      "initial_bbox": [
+        0,
+        3,
+        1024,
+        500
+      ],
+      "coarse_score": 0.0338103212416172,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        3
+      ],
+      "refined_score": 0.10046503548714096,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        5,
+        8
+      ],
+      "best_top_left_original": [
+        10,
+        16
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.03530383514105547,
+        "2": 0.04776369087756435,
+        "3": 0.0,
+        "4": 0.07415089124040738,
+        "5": 0.0,
+        "6": 1.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "0243",
+      "calib_path": "test_GOOSE\\2022-07-22_flight-0243_1658494790611632626-calib.json",
+      "image_path": "test_GOOSE\\2022-07-22_flight-0243_1658494790611632626-image.png",
+      "points_path": "test_GOOSE\\2022-07-22_flight-0243_1658494790611632626-points.bin",
+      "labels_path": "test_GOOSE\\2022-07-22_flight-0243_1658494790611632626-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2022-07-22_flight-0243_1658494790611632626-pred.png",
+      "initial_bbox": [
+        0,
+        0,
+        1024,
+        500
+      ],
+      "coarse_score": 0.011492329649627209,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        0
+      ],
+      "refined_score": 0.5923621469241724,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        -5,
+        8
+      ],
+      "best_top_left_original": [
+        -10,
+        16
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.008531338273484313,
+        "2": 0.041079487822991125,
+        "3": 0.0,
+        "4": 0.02737642259798861,
+        "5": 0.0,
+        "6": 1.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "0251",
+      "calib_path": "test_GOOSE\\2022-07-22_flight-0251_1658494826060124025-calib.json",
+      "image_path": "test_GOOSE\\2022-07-22_flight-0251_1658494826060124025-image.png",
+      "points_path": "test_GOOSE\\2022-07-22_flight-0251_1658494826060124025-points.bin",
+      "labels_path": "test_GOOSE\\2022-07-22_flight-0251_1658494826060124025-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2022-07-22_flight-0251_1658494826060124025-pred.png",
+      "initial_bbox": [
+        0,
+        0,
+        1024,
+        500
+      ],
+      "coarse_score": 0.01961091347038746,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        0
+      ],
+      "refined_score": 0.11703722692450978,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        -6,
+        2
+      ],
+      "best_top_left_original": [
+        -12,
+        4
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.019083330693006568,
+        "2": 0.11953783500941255,
+        "3": 0.0,
+        "4": 0.05542937813651826,
+        "5": 0.0,
+        "6": 0.0,
+        "8": 1.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "0254",
+      "calib_path": "test_GOOSE\\2022-07-22_flight-0254_1658494839082804823-calib.json",
+      "image_path": "test_GOOSE\\2022-07-22_flight-0254_1658494839082804823-image.png",
+      "points_path": "test_GOOSE\\2022-07-22_flight-0254_1658494839082804823-points.bin",
+      "labels_path": "test_GOOSE\\2022-07-22_flight-0254_1658494839082804823-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2022-07-22_flight-0254_1658494839082804823-pred.png",
+      "initial_bbox": [
+        0,
+        0,
+        1024,
+        500
+      ],
+      "coarse_score": 0.009411740116775036,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        0
+      ],
+      "refined_score": 0.023185943862800724,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        15,
+        -5
+      ],
+      "best_top_left_original": [
+        30,
+        -10
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.01546227320671233,
+        "2": 0.5408725246038191,
+        "3": 0.0,
+        "4": 0.15358174157496943,
+        "5": 0.0,
+        "6": 0.0,
+        "8": 1.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2022-08-30_siegertsbrunn_feldwege-0535_1661860620754902594",
+      "calib_path": "test_GOOSE\\2022-08-30_siegertsbrunn_feldwege-0535_1661860620754902594-calib.json",
+      "image_path": "test_GOOSE\\2022-08-30_siegertsbrunn_feldwege-0535_1661860620754902594-image.png",
+      "points_path": "test_GOOSE\\2022-08-30_siegertsbrunn_feldwege-0535_1661860620754902594-points.bin",
+      "labels_path": "test_GOOSE\\2022-08-30_siegertsbrunn_feldwege-0535_1661860620754902594-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2022-08-30_siegertsbrunn_feldwege-0535_1661860620754902594-pred.png",
+      "initial_bbox": [
+        0,
+        95,
+        1024,
+        500
+      ],
+      "coarse_score": 0.1989157646894455,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        95
+      ],
+      "refined_score": 0.5790375462849366,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        7,
+        96
+      ],
+      "best_top_left_original": [
+        14,
+        192
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.18827435470903256,
+        "2": 0.49169918106281835,
+        "3": 0.0,
+        "4": 1.0,
+        "5": 0.0,
+        "6": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2022-08-30_siegertsbrunn_feldwege-0542_1661860643124726891",
+      "calib_path": "test_GOOSE\\2022-08-30_siegertsbrunn_feldwege-0542_1661860643124726891-calib.json",
+      "image_path": "test_GOOSE\\2022-08-30_siegertsbrunn_feldwege-0542_1661860643124726891-image.png",
+      "points_path": "test_GOOSE\\2022-08-30_siegertsbrunn_feldwege-0542_1661860643124726891-points.bin",
+      "labels_path": "test_GOOSE\\2022-08-30_siegertsbrunn_feldwege-0542_1661860643124726891-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2022-08-30_siegertsbrunn_feldwege-0542_1661860643124726891-pred.png",
+      "initial_bbox": [
+        0,
+        0,
+        1024,
+        500
+      ],
+      "coarse_score": 0.04396525025367737,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        0
+      ],
+      "refined_score": 0.21130637934930804,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        10,
+        2
+      ],
+      "best_top_left_original": [
+        20,
+        4
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.07648408150412658,
+        "2": 0.21263446266881444,
+        "3": 0.0,
+        "4": 1.0,
+        "5": 0.0,
+        "6": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2022-08-30_siegertsbrunn_feldwege-0554_1661860711389335973",
+      "calib_path": "test_GOOSE\\2022-08-30_siegertsbrunn_feldwege-0554_1661860711389335973-calib.json",
+      "image_path": "test_GOOSE\\2022-08-30_siegertsbrunn_feldwege-0554_1661860711389335973-image.png",
+      "points_path": "test_GOOSE\\2022-08-30_siegertsbrunn_feldwege-0554_1661860711389335973-points.bin",
+      "labels_path": "test_GOOSE\\2022-08-30_siegertsbrunn_feldwege-0554_1661860711389335973-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2022-08-30_siegertsbrunn_feldwege-0554_1661860711389335973-pred.png",
+      "initial_bbox": [
+        0,
+        166,
+        1024,
+        500
+      ],
+      "coarse_score": 0.2513059675693512,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        162
+      ],
+      "refined_score": 0.8885264570889557,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        7,
+        169
+      ],
+      "best_top_left_original": [
+        14,
+        338
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.8083190132895903,
+        "2": 1.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2022-08-30_siegertsbrunn_feldwege-0557_1661860736174467752",
+      "calib_path": "test_GOOSE\\2022-08-30_siegertsbrunn_feldwege-0557_1661860736174467752-calib.json",
+      "image_path": "test_GOOSE\\2022-08-30_siegertsbrunn_feldwege-0557_1661860736174467752-image.png",
+      "points_path": "test_GOOSE\\2022-08-30_siegertsbrunn_feldwege-0557_1661860736174467752-points.bin",
+      "labels_path": "test_GOOSE\\2022-08-30_siegertsbrunn_feldwege-0557_1661860736174467752-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2022-08-30_siegertsbrunn_feldwege-0557_1661860736174467752-pred.png",
+      "initial_bbox": [
+        0,
+        6,
+        1024,
+        500
+      ],
+      "coarse_score": 0.012908950448036194,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        6
+      ],
+      "refined_score": 0.04999330860616227,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        7,
+        8
+      ],
+      "best_top_left_original": [
+        14,
+        16
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.02392600075239674,
+        "2": 0.032780464101736635,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 1.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2022-08-30_siegertsbrunn_feldwege-0563_1661860761905669145",
+      "calib_path": "test_GOOSE\\2022-08-30_siegertsbrunn_feldwege-0563_1661860761905669145-calib.json",
+      "image_path": "test_GOOSE\\2022-08-30_siegertsbrunn_feldwege-0563_1661860761905669145-image.png",
+      "points_path": "test_GOOSE\\2022-08-30_siegertsbrunn_feldwege-0563_1661860761905669145-points.bin",
+      "labels_path": "test_GOOSE\\2022-08-30_siegertsbrunn_feldwege-0563_1661860761905669145-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2022-08-30_siegertsbrunn_feldwege-0563_1661860761905669145-pred.png",
+      "initial_bbox": [
+        0,
+        3,
+        1024,
+        500
+      ],
+      "coarse_score": 0.010346095077693462,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        3
+      ],
+      "refined_score": 0.24154948580097477,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        -13,
+        2
+      ],
+      "best_top_left_original": [
+        -26,
+        4
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.020551941599060836,
+        "2": 0.025399430445837465,
+        "3": 0.0,
+        "4": 1.0,
+        "5": 0.0,
+        "6": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2022-08-30_siegertsbrunn_feldwege-0567_1661860787426197687",
+      "calib_path": "test_GOOSE\\2022-08-30_siegertsbrunn_feldwege-0567_1661860787426197687-calib.json",
+      "image_path": "test_GOOSE\\2022-08-30_siegertsbrunn_feldwege-0567_1661860787426197687-image.png",
+      "points_path": "test_GOOSE\\2022-08-30_siegertsbrunn_feldwege-0567_1661860787426197687-points.bin",
+      "labels_path": "test_GOOSE\\2022-08-30_siegertsbrunn_feldwege-0567_1661860787426197687-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2022-08-30_siegertsbrunn_feldwege-0567_1661860787426197687-pred.png",
+      "initial_bbox": [
+        0,
+        32,
+        1024,
+        500
+      ],
+      "coarse_score": 0.24373814463615417,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        24
+      ],
+      "refined_score": 0.8713674011375993,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        15,
+        26
+      ],
+      "best_top_left_original": [
+        30,
+        52
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.8396737622470555,
+        "2": 1.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2022-08-30_siegertsbrunn_feldwege-0589_1661860945486442271",
+      "calib_path": "test_GOOSE\\2022-08-30_siegertsbrunn_feldwege-0589_1661860945486442271-calib.json",
+      "image_path": "test_GOOSE\\2022-08-30_siegertsbrunn_feldwege-0589_1661860945486442271-image.png",
+      "points_path": "test_GOOSE\\2022-08-30_siegertsbrunn_feldwege-0589_1661860945486442271-points.bin",
+      "labels_path": "test_GOOSE\\2022-08-30_siegertsbrunn_feldwege-0589_1661860945486442271-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2022-08-30_siegertsbrunn_feldwege-0589_1661860945486442271-pred.png",
+      "initial_bbox": [
+        0,
+        16,
+        1024,
+        500
+      ],
+      "coarse_score": 0.14543786644935608,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        16
+      ],
+      "refined_score": 0.6719441207912982,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        5,
+        18
+      ],
+      "best_top_left_original": [
+        10,
+        36
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.22950828998769165,
+        "2": 1.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2022-08-30_siegertsbrunn_feldwege-0606_1661861070357140207",
+      "calib_path": "test_GOOSE\\2022-08-30_siegertsbrunn_feldwege-0606_1661861070357140207-calib.json",
+      "image_path": "test_GOOSE\\2022-08-30_siegertsbrunn_feldwege-0606_1661861070357140207-image.png",
+      "points_path": "test_GOOSE\\2022-08-30_siegertsbrunn_feldwege-0606_1661861070357140207-points.bin",
+      "labels_path": "test_GOOSE\\2022-08-30_siegertsbrunn_feldwege-0606_1661861070357140207-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2022-08-30_siegertsbrunn_feldwege-0606_1661861070357140207-pred.png",
+      "initial_bbox": [
+        0,
+        168,
+        1024,
+        500
+      ],
+      "coarse_score": 0.021108247339725494,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        168
+      ],
+      "refined_score": 0.14858276588153901,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        7,
+        170
+      ],
+      "best_top_left_original": [
+        14,
+        340
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.008408285880684464,
+        "2": 0.013026948387516233,
+        "3": 0.0,
+        "4": 0.039552864559499835,
+        "5": 1.0,
+        "6": 0.05394793095704889,
+        "8": 0.16611700414735364,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2022-08-30_siegertsbrunn_feldwege-0610_1661861076763438335",
+      "calib_path": "test_GOOSE\\2022-08-30_siegertsbrunn_feldwege-0610_1661861076763438335-calib.json",
+      "image_path": "test_GOOSE\\2022-08-30_siegertsbrunn_feldwege-0610_1661861076763438335-image.png",
+      "points_path": "test_GOOSE\\2022-08-30_siegertsbrunn_feldwege-0610_1661861076763438335-points.bin",
+      "labels_path": "test_GOOSE\\2022-08-30_siegertsbrunn_feldwege-0610_1661861076763438335-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2022-08-30_siegertsbrunn_feldwege-0610_1661861076763438335-pred.png",
+      "initial_bbox": [
+        0,
+        120,
+        1024,
+        500
+      ],
+      "coarse_score": 0.02904539927840233,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        118
+      ],
+      "refined_score": 0.23746202395479946,
+      "best_rotation_deg": -2.0,
+      "best_top_left_working": [
+        3,
+        125
+      ],
+      "best_top_left_original": [
+        6,
+        250
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.028900747799404918,
+        "2": 0.032732073482584174,
+        "3": 0.0,
+        "4": 0.0548427753984056,
+        "5": 0.0,
+        "6": 0.16314245294829496,
+        "8": 1.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2022-08-30_siegertsbrunn_feldwege-0616_1661861101864718253",
+      "calib_path": "test_GOOSE\\2022-08-30_siegertsbrunn_feldwege-0616_1661861101864718253-calib.json",
+      "image_path": "test_GOOSE\\2022-08-30_siegertsbrunn_feldwege-0616_1661861101864718253-image.png",
+      "points_path": "test_GOOSE\\2022-08-30_siegertsbrunn_feldwege-0616_1661861101864718253-points.bin",
+      "labels_path": "test_GOOSE\\2022-08-30_siegertsbrunn_feldwege-0616_1661861101864718253-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2022-08-30_siegertsbrunn_feldwege-0616_1661861101864718253-pred.png",
+      "initial_bbox": [
+        0,
+        0,
+        1024,
+        500
+      ],
+      "coarse_score": 0.03799639642238617,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        0
+      ],
+      "refined_score": 0.29115304658973257,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        14,
+        -2
+      ],
+      "best_top_left_original": [
+        28,
+        -4
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.018608240022697984,
+        "2": 0.046719236603407696,
+        "3": 0.0,
+        "4": 0.9048257766736015,
+        "5": 0.2731759768277853,
+        "6": 1.0,
+        "8": 0.0863604401230384,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2022-09-21_garching_uebungsplatz_2-0001_1663755182709213081",
+      "calib_path": "test_GOOSE\\2022-09-21_garching_uebungsplatz_2-0001_1663755182709213081-calib.json",
+      "image_path": "test_GOOSE\\2022-09-21_garching_uebungsplatz_2-0001_1663755182709213081-image.png",
+      "points_path": "test_GOOSE\\2022-09-21_garching_uebungsplatz_2-0001_1663755182709213081-points.bin",
+      "labels_path": "test_GOOSE\\2022-09-21_garching_uebungsplatz_2-0001_1663755182709213081-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2022-09-21_garching_uebungsplatz_2-0001_1663755182709213081-pred.png",
+      "initial_bbox": [
+        0,
+        91,
+        1024,
+        500
+      ],
+      "coarse_score": 0.2339268922805786,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        91
+      ],
+      "refined_score": 0.8881768768831443,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        -17,
+        95
+      ],
+      "best_top_left_original": [
+        -34,
+        190
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.8714588500994469,
+        "2": 1.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2022-09-21_garching_uebungsplatz_2-0006_1663755222067529613",
+      "calib_path": "test_GOOSE\\2022-09-21_garching_uebungsplatz_2-0006_1663755222067529613-calib.json",
+      "image_path": "test_GOOSE\\2022-09-21_garching_uebungsplatz_2-0006_1663755222067529613-image.png",
+      "points_path": "test_GOOSE\\2022-09-21_garching_uebungsplatz_2-0006_1663755222067529613-points.bin",
+      "labels_path": "test_GOOSE\\2022-09-21_garching_uebungsplatz_2-0006_1663755222067529613-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2022-09-21_garching_uebungsplatz_2-0006_1663755222067529613-pred.png",
+      "initial_bbox": [
+        0,
+        0,
+        1024,
+        500
+      ],
+      "coarse_score": 0.17017285525798798,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        0
+      ],
+      "refined_score": 0.8020103124001624,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        7,
+        8
+      ],
+      "best_top_left_original": [
+        14,
+        16
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.2886768546105023,
+        "2": 1.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2022-09-21_garching_uebungsplatz_2-0013_1663755260390163959",
+      "calib_path": "test_GOOSE\\2022-09-21_garching_uebungsplatz_2-0013_1663755260390163959-calib.json",
+      "image_path": "test_GOOSE\\2022-09-21_garching_uebungsplatz_2-0013_1663755260390163959-image.png",
+      "points_path": "test_GOOSE\\2022-09-21_garching_uebungsplatz_2-0013_1663755260390163959-points.bin",
+      "labels_path": "test_GOOSE\\2022-09-21_garching_uebungsplatz_2-0013_1663755260390163959-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2022-09-21_garching_uebungsplatz_2-0013_1663755260390163959-pred.png",
+      "initial_bbox": [
+        0,
+        0,
+        1024,
+        500
+      ],
+      "coarse_score": 0.17646853625774384,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        0
+      ],
+      "refined_score": 0.8498791569323578,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        8,
+        7
+      ],
+      "best_top_left_original": [
+        16,
+        14
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.3926447236333135,
+        "2": 1.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2022-09-21_garching_uebungsplatz_2-0049_1663755516109784318",
+      "calib_path": "test_GOOSE\\2022-09-21_garching_uebungsplatz_2-0049_1663755516109784318-calib.json",
+      "image_path": "test_GOOSE\\2022-09-21_garching_uebungsplatz_2-0049_1663755516109784318-image.png",
+      "points_path": "test_GOOSE\\2022-09-21_garching_uebungsplatz_2-0049_1663755516109784318-points.bin",
+      "labels_path": "test_GOOSE\\2022-09-21_garching_uebungsplatz_2-0049_1663755516109784318-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2022-09-21_garching_uebungsplatz_2-0049_1663755516109784318-pred.png",
+      "initial_bbox": [
+        0,
+        4,
+        1024,
+        500
+      ],
+      "coarse_score": 0.10762149095535278,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        3
+      ],
+      "refined_score": 0.3958336552211967,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        2,
+        10
+      ],
+      "best_top_left_original": [
+        4,
+        20
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.18090158473648596,
+        "2": 1.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2022-09-21_garching_uebungsplatz_2-0050_1663755529781033885",
+      "calib_path": "test_GOOSE\\2022-09-21_garching_uebungsplatz_2-0050_1663755529781033885-calib.json",
+      "image_path": "test_GOOSE\\2022-09-21_garching_uebungsplatz_2-0050_1663755529781033885-image.png",
+      "points_path": "test_GOOSE\\2022-09-21_garching_uebungsplatz_2-0050_1663755529781033885-points.bin",
+      "labels_path": "test_GOOSE\\2022-09-21_garching_uebungsplatz_2-0050_1663755529781033885-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2022-09-21_garching_uebungsplatz_2-0050_1663755529781033885-pred.png",
+      "initial_bbox": [
+        0,
+        0,
+        1024,
+        500
+      ],
+      "coarse_score": 0.18709522485733032,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        0
+      ],
+      "refined_score": 0.7531842229437798,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        10,
+        1
+      ],
+      "best_top_left_original": [
+        20,
+        2
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.27828591139894243,
+        "2": 1.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2022-09-21_garching_uebungsplatz_2-0058_1663755574936335398",
+      "calib_path": "test_GOOSE\\2022-09-21_garching_uebungsplatz_2-0058_1663755574936335398-calib.json",
+      "image_path": "test_GOOSE\\2022-09-21_garching_uebungsplatz_2-0058_1663755574936335398-image.png",
+      "points_path": "test_GOOSE\\2022-09-21_garching_uebungsplatz_2-0058_1663755574936335398-points.bin",
+      "labels_path": "test_GOOSE\\2022-09-21_garching_uebungsplatz_2-0058_1663755574936335398-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2022-09-21_garching_uebungsplatz_2-0058_1663755574936335398-pred.png",
+      "initial_bbox": [
+        0,
+        29,
+        1024,
+        500
+      ],
+      "coarse_score": 0.1730530560016632,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        29
+      ],
+      "refined_score": 0.733309918706061,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        5,
+        33
+      ],
+      "best_top_left_original": [
+        10,
+        66
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.3335026075245583,
+        "2": 1.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2022-09-21_garching_uebungsplatz_2-0061_1663755589332011624",
+      "calib_path": "test_GOOSE\\2022-09-21_garching_uebungsplatz_2-0061_1663755589332011624-calib.json",
+      "image_path": "test_GOOSE\\2022-09-21_garching_uebungsplatz_2-0061_1663755589332011624-image.png",
+      "points_path": "test_GOOSE\\2022-09-21_garching_uebungsplatz_2-0061_1663755589332011624-points.bin",
+      "labels_path": "test_GOOSE\\2022-09-21_garching_uebungsplatz_2-0061_1663755589332011624-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2022-09-21_garching_uebungsplatz_2-0061_1663755589332011624-pred.png",
+      "initial_bbox": [
+        0,
+        1,
+        1024,
+        500
+      ],
+      "coarse_score": 0.15233153104782104,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        1
+      ],
+      "refined_score": 0.6453564900193269,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        2,
+        8
+      ],
+      "best_top_left_original": [
+        4,
+        16
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.3368344571246813,
+        "2": 1.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2022-09-21_garching_uebungsplatz_2-0074_1663755729865978633",
+      "calib_path": "test_GOOSE\\2022-09-21_garching_uebungsplatz_2-0074_1663755729865978633-calib.json",
+      "image_path": "test_GOOSE\\2022-09-21_garching_uebungsplatz_2-0074_1663755729865978633-image.png",
+      "points_path": "test_GOOSE\\2022-09-21_garching_uebungsplatz_2-0074_1663755729865978633-points.bin",
+      "labels_path": "test_GOOSE\\2022-09-21_garching_uebungsplatz_2-0074_1663755729865978633-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2022-09-21_garching_uebungsplatz_2-0074_1663755729865978633-pred.png",
+      "initial_bbox": [
+        0,
+        0,
+        1024,
+        500
+      ],
+      "coarse_score": 0.14639419317245483,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        0
+      ],
+      "refined_score": 0.7106049728903949,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        5,
+        2
+      ],
+      "best_top_left_original": [
+        10,
+        4
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.2539405195698448,
+        "2": 1.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2022-09-21_garching_uebungsplatz_2-0079_1663755752544669641",
+      "calib_path": "test_GOOSE\\2022-09-21_garching_uebungsplatz_2-0079_1663755752544669641-calib.json",
+      "image_path": "test_GOOSE\\2022-09-21_garching_uebungsplatz_2-0079_1663755752544669641-image.png",
+      "points_path": "test_GOOSE\\2022-09-21_garching_uebungsplatz_2-0079_1663755752544669641-points.bin",
+      "labels_path": "test_GOOSE\\2022-09-21_garching_uebungsplatz_2-0079_1663755752544669641-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2022-09-21_garching_uebungsplatz_2-0079_1663755752544669641-pred.png",
+      "initial_bbox": [
+        0,
+        0,
+        1024,
+        500
+      ],
+      "coarse_score": 0.01786452904343605,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        0
+      ],
+      "refined_score": 0.08517069464137395,
+      "best_rotation_deg": 2.0,
+      "best_top_left_working": [
+        -8,
+        -8
+      ],
+      "best_top_left_original": [
+        -16,
+        -16
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.023717574785111658,
+        "2": 0.08489975061149724,
+        "3": 0.0,
+        "4": 1.0,
+        "5": 0.0,
+        "6": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2022-09-21_garching_uebungsplatz_2-0085_1663755763936469034",
+      "calib_path": "test_GOOSE\\2022-09-21_garching_uebungsplatz_2-0085_1663755763936469034-calib.json",
+      "image_path": "test_GOOSE\\2022-09-21_garching_uebungsplatz_2-0085_1663755763936469034-image.png",
+      "points_path": "test_GOOSE\\2022-09-21_garching_uebungsplatz_2-0085_1663755763936469034-points.bin",
+      "labels_path": "test_GOOSE\\2022-09-21_garching_uebungsplatz_2-0085_1663755763936469034-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2022-09-21_garching_uebungsplatz_2-0085_1663755763936469034-pred.png",
+      "initial_bbox": [
+        0,
+        0,
+        1024,
+        500
+      ],
+      "coarse_score": 0.026628661900758743,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        0
+      ],
+      "refined_score": 0.1422472368688131,
+      "best_rotation_deg": -10.0,
+      "best_top_left_working": [
+        17,
+        -8
+      ],
+      "best_top_left_original": [
+        34,
+        -16
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.03639612771126553,
+        "2": 0.3699973036652639,
+        "3": 0.0,
+        "4": 1.0,
+        "5": 0.0,
+        "6": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2022-09-21_garching_uebungsplatz_2-0097_1663755826071353288",
+      "calib_path": "test_GOOSE\\2022-09-21_garching_uebungsplatz_2-0097_1663755826071353288-calib.json",
+      "image_path": "test_GOOSE\\2022-09-21_garching_uebungsplatz_2-0097_1663755826071353288-image.png",
+      "points_path": "test_GOOSE\\2022-09-21_garching_uebungsplatz_2-0097_1663755826071353288-points.bin",
+      "labels_path": "test_GOOSE\\2022-09-21_garching_uebungsplatz_2-0097_1663755826071353288-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2022-09-21_garching_uebungsplatz_2-0097_1663755826071353288-pred.png",
+      "initial_bbox": [
+        0,
+        0,
+        1024,
+        500
+      ],
+      "coarse_score": 0.1557752788066864,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        0
+      ],
+      "refined_score": 0.6788754193308136,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        5,
+        13
+      ],
+      "best_top_left_original": [
+        10,
+        26
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.25543955660213286,
+        "2": 1.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2022-09-21_garching_uebungsplatz_2-0109_1663755922586168382",
+      "calib_path": "test_GOOSE\\2022-09-21_garching_uebungsplatz_2-0109_1663755922586168382-calib.json",
+      "image_path": "test_GOOSE\\2022-09-21_garching_uebungsplatz_2-0109_1663755922586168382-image.png",
+      "points_path": "test_GOOSE\\2022-09-21_garching_uebungsplatz_2-0109_1663755922586168382-points.bin",
+      "labels_path": "test_GOOSE\\2022-09-21_garching_uebungsplatz_2-0109_1663755922586168382-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2022-09-21_garching_uebungsplatz_2-0109_1663755922586168382-pred.png",
+      "initial_bbox": [
+        0,
+        177,
+        1024,
+        500
+      ],
+      "coarse_score": 0.011204740963876247,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        177
+      ],
+      "refined_score": 0.1560699249709964,
+      "best_rotation_deg": -2.0,
+      "best_top_left_working": [
+        4,
+        171
+      ],
+      "best_top_left_original": [
+        8,
+        342
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.02164301452809646,
+        "2": 0.041891573620469656,
+        "3": 0.0,
+        "4": 1.0,
+        "5": 0.0,
+        "6": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2022-09-21_garching_uebungsplatz_2-0110_1663755929214011639",
+      "calib_path": "test_GOOSE\\2022-09-21_garching_uebungsplatz_2-0110_1663755929214011639-calib.json",
+      "image_path": "test_GOOSE\\2022-09-21_garching_uebungsplatz_2-0110_1663755929214011639-image.png",
+      "points_path": "test_GOOSE\\2022-09-21_garching_uebungsplatz_2-0110_1663755929214011639-points.bin",
+      "labels_path": "test_GOOSE\\2022-09-21_garching_uebungsplatz_2-0110_1663755929214011639-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2022-09-21_garching_uebungsplatz_2-0110_1663755929214011639-pred.png",
+      "initial_bbox": [
+        0,
+        118,
+        1024,
+        500
+      ],
+      "coarse_score": 0.08186738193035126,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        118
+      ],
+      "refined_score": 0.3157776537550468,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        7,
+        120
+      ],
+      "best_top_left_original": [
+        14,
+        240
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.02281190103790302,
+        "2": 0.045378209047911934,
+        "3": 0.0,
+        "4": 1.0,
+        "5": 0.0,
+        "6": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2022-12-07_aying_hills-0002_1670420663298382187",
+      "calib_path": "test_GOOSE\\2022-12-07_aying_hills-0002_1670420663298382187-calib.json",
+      "image_path": "test_GOOSE\\2022-12-07_aying_hills-0002_1670420663298382187-image.png",
+      "points_path": "test_GOOSE\\2022-12-07_aying_hills-0002_1670420663298382187-points.bin",
+      "labels_path": "test_GOOSE\\2022-12-07_aying_hills-0002_1670420663298382187-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2022-12-07_aying_hills-0002_1670420663298382187-pred.png",
+      "initial_bbox": [
+        0,
+        1,
+        1024,
+        500
+      ],
+      "coarse_score": 0.18402841687202454,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        1
+      ],
+      "refined_score": 0.5036707241713696,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        -15,
+        2
+      ],
+      "best_top_left_original": [
+        -30,
+        4
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.16545044774398804,
+        "2": 0.4464689596521879,
+        "3": 0.0,
+        "4": 0.7900462242865631,
+        "5": 0.5732653481310952,
+        "6": 0.5928941757650825,
+        "8": 1.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2022-12-07_aying_hills-0005_1670420698140436007",
+      "calib_path": "test_GOOSE\\2022-12-07_aying_hills-0005_1670420698140436007-calib.json",
+      "image_path": "test_GOOSE\\2022-12-07_aying_hills-0005_1670420698140436007-image.png",
+      "points_path": "test_GOOSE\\2022-12-07_aying_hills-0005_1670420698140436007-points.bin",
+      "labels_path": "test_GOOSE\\2022-12-07_aying_hills-0005_1670420698140436007-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2022-12-07_aying_hills-0005_1670420698140436007-pred.png",
+      "initial_bbox": [
+        0,
+        2,
+        1024,
+        500
+      ],
+      "coarse_score": 0.03687651455402374,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        2
+      ],
+      "refined_score": 0.11653365406315193,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        9,
+        3
+      ],
+      "best_top_left_original": [
+        18,
+        6
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.026961723478524064,
+        "2": 0.04405148167472068,
+        "3": 0.0,
+        "4": 0.01698306675264086,
+        "5": 0.0489965506716818,
+        "6": 0.09827256812490325,
+        "8": 0.08229258943292339,
+        "9": 1.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2022-12-07_aying_hills-0015_1670421010066267238",
+      "calib_path": "test_GOOSE\\2022-12-07_aying_hills-0015_1670421010066267238-calib.json",
+      "image_path": "test_GOOSE\\2022-12-07_aying_hills-0015_1670421010066267238-image.png",
+      "points_path": "test_GOOSE\\2022-12-07_aying_hills-0015_1670421010066267238-points.bin",
+      "labels_path": "test_GOOSE\\2022-12-07_aying_hills-0015_1670421010066267238-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2022-12-07_aying_hills-0015_1670421010066267238-pred.png",
+      "initial_bbox": [
+        0,
+        94,
+        1024,
+        487
+      ],
+      "coarse_score": 0.037895675748586655,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        100
+      ],
+      "refined_score": 0.11045951505885233,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        17,
+        99
+      ],
+      "best_top_left_original": [
+        34,
+        198
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.044554247049871966,
+        "2": 0.10350526689599734,
+        "3": 0.0,
+        "4": 0.07799962209537258,
+        "5": 0.0,
+        "6": 1.0,
+        "8": 0.16909760460663745,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2022-12-07_aying_hills-0026_1670421149222734552",
+      "calib_path": "test_GOOSE\\2022-12-07_aying_hills-0026_1670421149222734552-calib.json",
+      "image_path": "test_GOOSE\\2022-12-07_aying_hills-0026_1670421149222734552-image.png",
+      "points_path": "test_GOOSE\\2022-12-07_aying_hills-0026_1670421149222734552-points.bin",
+      "labels_path": "test_GOOSE\\2022-12-07_aying_hills-0026_1670421149222734552-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2022-12-07_aying_hills-0026_1670421149222734552-pred.png",
+      "initial_bbox": [
+        0,
+        1,
+        1024,
+        500
+      ],
+      "coarse_score": 0.0032322776969522238,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        1
+      ],
+      "refined_score": 0.012176436278969084,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        15,
+        9
+      ],
+      "best_top_left_original": [
+        30,
+        18
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.008505041521136038,
+        "2": 0.02395114718344598,
+        "3": 0.0,
+        "4": 0.502971128725793,
+        "5": 1.0,
+        "6": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2022-12-07_aying_hills-0047_1670421370621698009",
+      "calib_path": "test_GOOSE\\2022-12-07_aying_hills-0047_1670421370621698009-calib.json",
+      "image_path": "test_GOOSE\\2022-12-07_aying_hills-0047_1670421370621698009-image.png",
+      "points_path": "test_GOOSE\\2022-12-07_aying_hills-0047_1670421370621698009-points.bin",
+      "labels_path": "test_GOOSE\\2022-12-07_aying_hills-0047_1670421370621698009-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2022-12-07_aying_hills-0047_1670421370621698009-pred.png",
+      "initial_bbox": [
+        0,
+        0,
+        1024,
+        500
+      ],
+      "coarse_score": 0.02205362543463707,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        0
+      ],
+      "refined_score": 0.09954823204473333,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        -17,
+        7
+      ],
+      "best_top_left_original": [
+        -34,
+        14
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.03604826078938052,
+        "2": 0.10002999735708551,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "8": 0.0,
+        "9": 1.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2022-12-07_aying_hills-0054_1670421438647357603",
+      "calib_path": "test_GOOSE\\2022-12-07_aying_hills-0054_1670421438647357603-calib.json",
+      "image_path": "test_GOOSE\\2022-12-07_aying_hills-0054_1670421438647357603-image.png",
+      "points_path": "test_GOOSE\\2022-12-07_aying_hills-0054_1670421438647357603-points.bin",
+      "labels_path": "test_GOOSE\\2022-12-07_aying_hills-0054_1670421438647357603-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2022-12-07_aying_hills-0054_1670421438647357603-pred.png",
+      "initial_bbox": [
+        0,
+        0,
+        1024,
+        500
+      ],
+      "coarse_score": 0.1788133978843689,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        0
+      ],
+      "refined_score": 0.6241712582280824,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        17,
+        -17
+      ],
+      "best_top_left_original": [
+        34,
+        -34
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.3663176602475771,
+        "2": 1.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2022-12-07_aying_hills-0068_1670421493686065206",
+      "calib_path": "test_GOOSE\\2022-12-07_aying_hills-0068_1670421493686065206-calib.json",
+      "image_path": "test_GOOSE\\2022-12-07_aying_hills-0068_1670421493686065206-image.png",
+      "points_path": "test_GOOSE\\2022-12-07_aying_hills-0068_1670421493686065206-points.bin",
+      "labels_path": "test_GOOSE\\2022-12-07_aying_hills-0068_1670421493686065206-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2022-12-07_aying_hills-0068_1670421493686065206-pred.png",
+      "initial_bbox": [
+        0,
+        0,
+        1024,
+        500
+      ],
+      "coarse_score": 0.17302252352237701,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        0
+      ],
+      "refined_score": 0.7047701671478936,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        17,
+        -13
+      ],
+      "best_top_left_original": [
+        34,
+        -26
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.333433825692761,
+        "2": 1.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2022-12-07_aying_hills-0073_1670421510589317682",
+      "calib_path": "test_GOOSE\\2022-12-07_aying_hills-0073_1670421510589317682-calib.json",
+      "image_path": "test_GOOSE\\2022-12-07_aying_hills-0073_1670421510589317682-image.png",
+      "points_path": "test_GOOSE\\2022-12-07_aying_hills-0073_1670421510589317682-points.bin",
+      "labels_path": "test_GOOSE\\2022-12-07_aying_hills-0073_1670421510589317682-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2022-12-07_aying_hills-0073_1670421510589317682-pred.png",
+      "initial_bbox": [
+        0,
+        1,
+        1024,
+        500
+      ],
+      "coarse_score": 0.0831458568572998,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        1
+      ],
+      "refined_score": 0.23025000161703507,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        5,
+        4
+      ],
+      "best_top_left_original": [
+        10,
+        8
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.09482841407213927,
+        "2": 0.2473378500331991,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "8": 1.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2022-12-07_aying_hills-0090_1670421548723588839",
+      "calib_path": "test_GOOSE\\2022-12-07_aying_hills-0090_1670421548723588839-calib.json",
+      "image_path": "test_GOOSE\\2022-12-07_aying_hills-0090_1670421548723588839-image.png",
+      "points_path": "test_GOOSE\\2022-12-07_aying_hills-0090_1670421548723588839-points.bin",
+      "labels_path": "test_GOOSE\\2022-12-07_aying_hills-0090_1670421548723588839-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2022-12-07_aying_hills-0090_1670421548723588839-pred.png",
+      "initial_bbox": [
+        0,
+        6,
+        1024,
+        500
+      ],
+      "coarse_score": 0.0058537740260362625,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        5
+      ],
+      "refined_score": 0.01769450475350671,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        -17,
+        -12
+      ],
+      "best_top_left_original": [
+        -34,
+        -24
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.010265102626726454,
+        "2": 0.029337829828122497,
+        "3": 0.0,
+        "4": 1.0,
+        "5": 0.0,
+        "6": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2022-12-07_aying_hills-0101_1670421576036064077",
+      "calib_path": "test_GOOSE\\2022-12-07_aying_hills-0101_1670421576036064077-calib.json",
+      "image_path": "test_GOOSE\\2022-12-07_aying_hills-0101_1670421576036064077-image.png",
+      "points_path": "test_GOOSE\\2022-12-07_aying_hills-0101_1670421576036064077-points.bin",
+      "labels_path": "test_GOOSE\\2022-12-07_aying_hills-0101_1670421576036064077-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2022-12-07_aying_hills-0101_1670421576036064077-pred.png",
+      "initial_bbox": [
+        0,
+        0,
+        1024,
+        500
+      ],
+      "coarse_score": 0.18278369307518005,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        0
+      ],
+      "refined_score": 0.8789468405293687,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        10,
+        5
+      ],
+      "best_top_left_original": [
+        20,
+        10
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.3244664018901949,
+        "2": 1.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2022-12-07_aying_hills-0109_1670421592835295547",
+      "calib_path": "test_GOOSE\\2022-12-07_aying_hills-0109_1670421592835295547-calib.json",
+      "image_path": "test_GOOSE\\2022-12-07_aying_hills-0109_1670421592835295547-image.png",
+      "points_path": "test_GOOSE\\2022-12-07_aying_hills-0109_1670421592835295547-points.bin",
+      "labels_path": "test_GOOSE\\2022-12-07_aying_hills-0109_1670421592835295547-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2022-12-07_aying_hills-0109_1670421592835295547-pred.png",
+      "initial_bbox": [
+        0,
+        25,
+        1024,
+        500
+      ],
+      "coarse_score": 0.13437986373901367,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        24
+      ],
+      "refined_score": 0.4483656955901919,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        17,
+        25
+      ],
+      "best_top_left_original": [
+        34,
+        50
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.10809843749528425,
+        "2": 0.4757624771487031,
+        "3": 0.0,
+        "4": 1.0,
+        "5": 0.0,
+        "6": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2022-12-07_aying_hills-0124_1670421648079439514",
+      "calib_path": "test_GOOSE\\2022-12-07_aying_hills-0124_1670421648079439514-calib.json",
+      "image_path": "test_GOOSE\\2022-12-07_aying_hills-0124_1670421648079439514-image.png",
+      "points_path": "test_GOOSE\\2022-12-07_aying_hills-0124_1670421648079439514-points.bin",
+      "labels_path": "test_GOOSE\\2022-12-07_aying_hills-0124_1670421648079439514-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2022-12-07_aying_hills-0124_1670421648079439514-pred.png",
+      "initial_bbox": [
+        0,
+        1,
+        1024,
+        500
+      ],
+      "coarse_score": 0.08680077642202377,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        1
+      ],
+      "refined_score": 0.2050964779486935,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        4,
+        5
+      ],
+      "best_top_left_original": [
+        8,
+        10
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.05151326471864688,
+        "2": 0.05593840436084131,
+        "3": 0.0,
+        "4": 0.11544203628703784,
+        "5": 0.2156278682245169,
+        "6": 1.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2022-12-07_aying_hills-0127_1670421656118376792",
+      "calib_path": "test_GOOSE\\2022-12-07_aying_hills-0127_1670421656118376792-calib.json",
+      "image_path": "test_GOOSE\\2022-12-07_aying_hills-0127_1670421656118376792-image.png",
+      "points_path": "test_GOOSE\\2022-12-07_aying_hills-0127_1670421656118376792-points.bin",
+      "labels_path": "test_GOOSE\\2022-12-07_aying_hills-0127_1670421656118376792-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2022-12-07_aying_hills-0127_1670421656118376792-pred.png",
+      "initial_bbox": [
+        0,
+        0,
+        1024,
+        500
+      ],
+      "coarse_score": 0.01271339226514101,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        0
+      ],
+      "refined_score": 0.05306798979800081,
+      "best_rotation_deg": -2.0,
+      "best_top_left_working": [
+        -13,
+        7
+      ],
+      "best_top_left_original": [
+        -26,
+        14
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.04773701115403336,
+        "2": 0.08405280245793392,
+        "3": 0.0,
+        "4": 0.07078417307250205,
+        "5": 0.0,
+        "6": 1.0,
+        "8": 0.8205192618121269,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2023-01-20_aying_mangfall_2-0424_1674223402615482203",
+      "calib_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0424_1674223402615482203-calib.json",
+      "image_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0424_1674223402615482203-image.png",
+      "points_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0424_1674223402615482203-points.bin",
+      "labels_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0424_1674223402615482203-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0424_1674223402615482203-pred.png",
+      "initial_bbox": [
+        0,
+        121,
+        1024,
+        500
+      ],
+      "coarse_score": 0.0035690623335540295,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        84
+      ],
+      "refined_score": 0.01137359673938987,
+      "best_rotation_deg": -2.0,
+      "best_top_left_working": [
+        17,
+        88
+      ],
+      "best_top_left_original": [
+        34,
+        176
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.009642039846277017,
+        "2": 0.01459198176115988,
+        "3": 0.0,
+        "4": 1.0,
+        "5": 0.0,
+        "6": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2023-01-20_aying_mangfall_2-0438_1674223475170638010",
+      "calib_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0438_1674223475170638010-calib.json",
+      "image_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0438_1674223475170638010-image.png",
+      "points_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0438_1674223475170638010-points.bin",
+      "labels_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0438_1674223475170638010-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0438_1674223475170638010-pred.png",
+      "initial_bbox": [
+        0,
+        1,
+        1024,
+        500
+      ],
+      "coarse_score": 0.014724702574312687,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        1
+      ],
+      "refined_score": 0.05986332509826795,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        2,
+        9
+      ],
+      "best_top_left_original": [
+        4,
+        18
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.02243222908504354,
+        "2": 0.06130612758327863,
+        "3": 0.0,
+        "4": 1.0,
+        "5": 0.0,
+        "6": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2023-01-20_aying_mangfall_2-0440_1674223485985094589",
+      "calib_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0440_1674223485985094589-calib.json",
+      "image_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0440_1674223485985094589-image.png",
+      "points_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0440_1674223485985094589-points.bin",
+      "labels_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0440_1674223485985094589-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0440_1674223485985094589-pred.png",
+      "initial_bbox": [
+        0,
+        0,
+        1024,
+        500
+      ],
+      "coarse_score": 0.009840324521064758,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        0
+      ],
+      "refined_score": 0.043763333979623,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        3,
+        10
+      ],
+      "best_top_left_original": [
+        6,
+        20
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.016635986886675943,
+        "2": 0.04002092452849943,
+        "3": 0.0,
+        "4": 1.0,
+        "5": 0.0,
+        "6": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2023-01-20_aying_mangfall_2-0449_1674223530715314328",
+      "calib_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0449_1674223530715314328-calib.json",
+      "image_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0449_1674223530715314328-image.png",
+      "points_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0449_1674223530715314328-points.bin",
+      "labels_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0449_1674223530715314328-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0449_1674223530715314328-pred.png",
+      "initial_bbox": [
+        0,
+        1,
+        1024,
+        500
+      ],
+      "coarse_score": 0.045901570469141006,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        1
+      ],
+      "refined_score": 0.20385592998463106,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        17,
+        -16
+      ],
+      "best_top_left_original": [
+        34,
+        -32
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.11750730618662414,
+        "2": 0.48575309037080733,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "8": 1.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2023-01-20_aying_mangfall_2-0459_1674223562530375564",
+      "calib_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0459_1674223562530375564-calib.json",
+      "image_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0459_1674223562530375564-image.png",
+      "points_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0459_1674223562530375564-points.bin",
+      "labels_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0459_1674223562530375564-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0459_1674223562530375564-pred.png",
+      "initial_bbox": [
+        0,
+        0,
+        1024,
+        500
+      ],
+      "coarse_score": 0.18174761533737183,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        0
+      ],
+      "refined_score": 0.5957589680653416,
+      "best_rotation_deg": -2.0,
+      "best_top_left_working": [
+        -12,
+        -17
+      ],
+      "best_top_left_original": [
+        -24,
+        -34
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.43241932966898816,
+        "2": 1.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2023-01-20_aying_mangfall_2-0464_1674223584160464677",
+      "calib_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0464_1674223584160464677-calib.json",
+      "image_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0464_1674223584160464677-image.png",
+      "points_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0464_1674223584160464677-points.bin",
+      "labels_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0464_1674223584160464677-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0464_1674223584160464677-pred.png",
+      "initial_bbox": [
+        0,
+        0,
+        1024,
+        500
+      ],
+      "coarse_score": 0.008127995766699314,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        0
+      ],
+      "refined_score": 0.02851142974693921,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        15,
+        -12
+      ],
+      "best_top_left_original": [
+        30,
+        -24
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.01564410024681091,
+        "2": 0.030616537613705162,
+        "3": 0.0,
+        "4": 1.0,
+        "5": 0.0,
+        "6": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2023-01-20_aying_mangfall_2-0479_1674223734313984887",
+      "calib_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0479_1674223734313984887-calib.json",
+      "image_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0479_1674223734313984887-image.png",
+      "points_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0479_1674223734313984887-points.bin",
+      "labels_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0479_1674223734313984887-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0479_1674223734313984887-pred.png",
+      "initial_bbox": [
+        0,
+        19,
+        1024,
+        500
+      ],
+      "coarse_score": 0.05292228236794472,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        16
+      ],
+      "refined_score": 0.08778289513606649,
+      "best_rotation_deg": 2.0,
+      "best_top_left_working": [
+        9,
+        19
+      ],
+      "best_top_left_original": [
+        18,
+        38
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.02520979301658342,
+        "2": 0.01712403899985533,
+        "3": 0.0,
+        "4": 0.02836825220676205,
+        "5": 0.5012032142154228,
+        "6": 1.0,
+        "8": 0.20915499629695827,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2023-01-20_aying_mangfall_2-0485_1674223751640307690",
+      "calib_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0485_1674223751640307690-calib.json",
+      "image_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0485_1674223751640307690-image.png",
+      "points_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0485_1674223751640307690-points.bin",
+      "labels_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0485_1674223751640307690-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0485_1674223751640307690-pred.png",
+      "initial_bbox": [
+        0,
+        0,
+        1024,
+        500
+      ],
+      "coarse_score": 0.11458723992109299,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        0
+      ],
+      "refined_score": 0.528027309348552,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        10,
+        4
+      ],
+      "best_top_left_original": [
+        20,
+        8
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.034372445495855594,
+        "2": 0.08133774688160089,
+        "3": 0.0,
+        "4": 0.10472247175848862,
+        "5": 1.0,
+        "6": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2023-01-20_aying_mangfall_2-0492_1674223766340079246",
+      "calib_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0492_1674223766340079246-calib.json",
+      "image_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0492_1674223766340079246-image.png",
+      "points_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0492_1674223766340079246-points.bin",
+      "labels_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0492_1674223766340079246-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0492_1674223766340079246-pred.png",
+      "initial_bbox": [
+        0,
+        0,
+        1024,
+        500
+      ],
+      "coarse_score": 0.030671030282974243,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        0
+      ],
+      "refined_score": 0.1020739258145154,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        15,
+        -13
+      ],
+      "best_top_left_original": [
+        30,
+        -26
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.07278657922483492,
+        "2": 0.11445399970855807,
+        "3": 0.0,
+        "4": 1.0,
+        "5": 0.0,
+        "6": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2023-01-20_aying_mangfall_2-0502_1674223787653838362",
+      "calib_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0502_1674223787653838362-calib.json",
+      "image_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0502_1674223787653838362-image.png",
+      "points_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0502_1674223787653838362-points.bin",
+      "labels_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0502_1674223787653838362-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0502_1674223787653838362-pred.png",
+      "initial_bbox": [
+        0,
+        0,
+        1024,
+        500
+      ],
+      "coarse_score": 0.037665955722332,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        0
+      ],
+      "refined_score": 0.09256938178853916,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        7,
+        2
+      ],
+      "best_top_left_original": [
+        14,
+        4
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.02102938912151016,
+        "2": 0.07263829066347388,
+        "3": 0.0,
+        "4": 1.0,
+        "5": 0.0,
+        "6": 0.0,
+        "8": 0.14592498509903326,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2023-01-20_aying_mangfall_2-0503_1674223791433568680",
+      "calib_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0503_1674223791433568680-calib.json",
+      "image_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0503_1674223791433568680-image.png",
+      "points_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0503_1674223791433568680-points.bin",
+      "labels_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0503_1674223791433568680-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0503_1674223791433568680-pred.png",
+      "initial_bbox": [
+        0,
+        0,
+        1024,
+        500
+      ],
+      "coarse_score": 0.04632841795682907,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        0
+      ],
+      "refined_score": 0.1344942674632638,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        -17,
+        -4
+      ],
+      "best_top_left_original": [
+        -34,
+        -8
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.044876384746238895,
+        "2": 0.07059515478453121,
+        "3": 0.0,
+        "4": 1.0,
+        "5": 0.0,
+        "6": 0.0,
+        "8": 0.19428426318010578,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2023-01-20_aying_mangfall_2-0512_1674223818520990303",
+      "calib_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0512_1674223818520990303-calib.json",
+      "image_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0512_1674223818520990303-image.png",
+      "points_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0512_1674223818520990303-points.bin",
+      "labels_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0512_1674223818520990303-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0512_1674223818520990303-pred.png",
+      "initial_bbox": [
+        0,
+        0,
+        1024,
+        500
+      ],
+      "coarse_score": 0.04850950092077255,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        0
+      ],
+      "refined_score": 0.1752272561844117,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        -8,
+        5
+      ],
+      "best_top_left_original": [
+        -16,
+        10
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.050636384624420855,
+        "2": 0.11666915133884818,
+        "3": 0.0,
+        "4": 0.09377069711055626,
+        "5": 0.0,
+        "6": 0.0,
+        "8": 1.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2023-01-20_aying_mangfall_2-0524_1674223859571942762",
+      "calib_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0524_1674223859571942762-calib.json",
+      "image_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0524_1674223859571942762-image.png",
+      "points_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0524_1674223859571942762-points.bin",
+      "labels_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0524_1674223859571942762-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0524_1674223859571942762-pred.png",
+      "initial_bbox": [
+        0,
+        0,
+        1024,
+        500
+      ],
+      "coarse_score": 0.006355238612741232,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        0
+      ],
+      "refined_score": 0.016707030979546362,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        8,
+        1
+      ],
+      "best_top_left_original": [
+        16,
+        2
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.010065584276905716,
+        "2": 0.015611352959937676,
+        "3": 0.0,
+        "4": 0.023814801987181083,
+        "5": 1.0,
+        "6": 0.0,
+        "8": 0.5029882326021344,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2023-01-20_aying_mangfall_2-0527_1674223865661853604",
+      "calib_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0527_1674223865661853604-calib.json",
+      "image_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0527_1674223865661853604-image.png",
+      "points_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0527_1674223865661853604-points.bin",
+      "labels_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0527_1674223865661853604-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0527_1674223865661853604-pred.png",
+      "initial_bbox": [
+        0,
+        0,
+        1024,
+        500
+      ],
+      "coarse_score": 0.006786770652979612,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        0
+      ],
+      "refined_score": 0.02552927564772901,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        2,
+        1
+      ],
+      "best_top_left_original": [
+        4,
+        2
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.01867481693198052,
+        "2": 0.027413749679594854,
+        "3": 0.0,
+        "4": 0.012685425353627836,
+        "5": 1.0,
+        "6": 0.3288985460876155,
+        "8": 0.27522395975278896,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2023-01-20_aying_mangfall_2-0529_1674223869126144531",
+      "calib_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0529_1674223869126144531-calib.json",
+      "image_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0529_1674223869126144531-image.png",
+      "points_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0529_1674223869126144531-points.bin",
+      "labels_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0529_1674223869126144531-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0529_1674223869126144531-pred.png",
+      "initial_bbox": [
+        0,
+        2,
+        1024,
+        500
+      ],
+      "coarse_score": 0.02097608707845211,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        1
+      ],
+      "refined_score": 0.06354448397521768,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        -13,
+        2
+      ],
+      "best_top_left_original": [
+        -26,
+        4
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.0666216251441099,
+        "2": 0.043863824638039374,
+        "3": 0.0,
+        "4": 0.0132342584527165,
+        "5": 1.0,
+        "6": 0.3024232653754661,
+        "8": 0.12043217613265603,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2023-01-20_aying_mangfall_2-0542_1674223910807086527",
+      "calib_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0542_1674223910807086527-calib.json",
+      "image_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0542_1674223910807086527-image.png",
+      "points_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0542_1674223910807086527-points.bin",
+      "labels_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0542_1674223910807086527-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0542_1674223910807086527-pred.png",
+      "initial_bbox": [
+        0,
+        0,
+        1024,
+        500
+      ],
+      "coarse_score": 0.036780476570129395,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        0
+      ],
+      "refined_score": 0.12752039588674752,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        1,
+        4
+      ],
+      "best_top_left_original": [
+        2,
+        8
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.006676074752635791,
+        "2": 0.013338844070876167,
+        "3": 0.0,
+        "4": 1.0,
+        "5": 0.0,
+        "6": 0.0,
+        "8": 0.20277323207979894,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2023-01-20_aying_mangfall_2-0544_1674223931176196226",
+      "calib_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0544_1674223931176196226-calib.json",
+      "image_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0544_1674223931176196226-image.png",
+      "points_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0544_1674223931176196226-points.bin",
+      "labels_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0544_1674223931176196226-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0544_1674223931176196226-pred.png",
+      "initial_bbox": [
+        0,
+        1,
+        1024,
+        500
+      ],
+      "coarse_score": 0.05389544367790222,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        0
+      ],
+      "refined_score": 0.14054062057411118,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        4,
+        2
+      ],
+      "best_top_left_original": [
+        8,
+        4
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.01581954453186368,
+        "2": 0.020613154186146714,
+        "3": 0.0,
+        "4": 0.0463223955721421,
+        "5": 0.2126982272266894,
+        "6": 1.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2023-01-20_aying_mangfall_2-0560_1674224054223231315",
+      "calib_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0560_1674224054223231315-calib.json",
+      "image_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0560_1674224054223231315-image.png",
+      "points_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0560_1674224054223231315-points.bin",
+      "labels_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0560_1674224054223231315-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0560_1674224054223231315-pred.png",
+      "initial_bbox": [
+        0,
+        0,
+        1024,
+        500
+      ],
+      "coarse_score": 0.004454963840544224,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        0
+      ],
+      "refined_score": 0.030822846979365152,
+      "best_rotation_deg": -2.0,
+      "best_top_left_working": [
+        5,
+        -9
+      ],
+      "best_top_left_original": [
+        10,
+        -18
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.009841260287022674,
+        "2": 0.019166902652570525,
+        "3": 0.0,
+        "4": 1.0,
+        "5": 0.0,
+        "6": 0.2966796609257228,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2023-01-20_aying_mangfall_2-0576_1674224105249369142",
+      "calib_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0576_1674224105249369142-calib.json",
+      "image_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0576_1674224105249369142-image.png",
+      "points_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0576_1674224105249369142-points.bin",
+      "labels_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0576_1674224105249369142-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0576_1674224105249369142-pred.png",
+      "initial_bbox": [
+        0,
+        4,
+        1024,
+        500
+      ],
+      "coarse_score": 0.02430502325296402,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        4
+      ],
+      "refined_score": 0.08115649468547168,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        17,
+        12
+      ],
+      "best_top_left_original": [
+        34,
+        24
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.07547676263382057,
+        "2": 0.16563547200053147,
+        "3": 0.0,
+        "4": 1.0,
+        "5": 0.0,
+        "6": 0.8702119473423645,
+        "8": 0.22962597618635924,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2023-01-20_aying_mangfall_2-0592_1674224166459491318",
+      "calib_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0592_1674224166459491318-calib.json",
+      "image_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0592_1674224166459491318-image.png",
+      "points_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0592_1674224166459491318-points.bin",
+      "labels_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0592_1674224166459491318-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2023-01-20_aying_mangfall_2-0592_1674224166459491318-pred.png",
+      "initial_bbox": [
+        0,
+        0,
+        1024,
+        500
+      ],
+      "coarse_score": 0.009436340071260929,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        0
+      ],
+      "refined_score": 0.1795875383980961,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        17,
+        6
+      ],
+      "best_top_left_original": [
+        34,
+        12
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.021889779282503765,
+        "2": 0.03525308562028941,
+        "3": 0.0,
+        "4": 0.06127280450957248,
+        "5": 0.4828297394565933,
+        "6": 1.0,
+        "8": 0.7076671118026401,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2023-03-03_garching_2-0130_1677850488525038891",
+      "calib_path": "test_GOOSE\\2023-03-03_garching_2-0130_1677850488525038891-calib.json",
+      "image_path": "test_GOOSE\\2023-03-03_garching_2-0130_1677850488525038891-image.png",
+      "points_path": "test_GOOSE\\2023-03-03_garching_2-0130_1677850488525038891-points.bin",
+      "labels_path": "test_GOOSE\\2023-03-03_garching_2-0130_1677850488525038891-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2023-03-03_garching_2-0130_1677850488525038891-pred.png",
+      "initial_bbox": [
+        0,
+        0,
+        1024,
+        500
+      ],
+      "coarse_score": 0.16579970717430115,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        0
+      ],
+      "refined_score": 0.4933452594254882,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        6,
+        10
+      ],
+      "best_top_left_original": [
+        12,
+        20
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.28763532407724557,
+        "2": 1.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2023-03-03_garching_2-0152_1677850647638305698",
+      "calib_path": "test_GOOSE\\2023-03-03_garching_2-0152_1677850647638305698-calib.json",
+      "image_path": "test_GOOSE\\2023-03-03_garching_2-0152_1677850647638305698-image.png",
+      "points_path": "test_GOOSE\\2023-03-03_garching_2-0152_1677850647638305698-points.bin",
+      "labels_path": "test_GOOSE\\2023-03-03_garching_2-0152_1677850647638305698-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2023-03-03_garching_2-0152_1677850647638305698-pred.png",
+      "initial_bbox": [
+        0,
+        1,
+        1024,
+        500
+      ],
+      "coarse_score": 0.002538928296416998,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        0
+      ],
+      "refined_score": 0.00962516231935038,
+      "best_rotation_deg": -14.0,
+      "best_top_left_working": [
+        -2,
+        7
+      ],
+      "best_top_left_original": [
+        -4,
+        14
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.009752676218967183,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 1.0,
+        "5": 0.0,
+        "6": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2023-03-03_garching_2-0153_1677850651958898400",
+      "calib_path": "test_GOOSE\\2023-03-03_garching_2-0153_1677850651958898400-calib.json",
+      "image_path": "test_GOOSE\\2023-03-03_garching_2-0153_1677850651958898400-image.png",
+      "points_path": "test_GOOSE\\2023-03-03_garching_2-0153_1677850651958898400-points.bin",
+      "labels_path": "test_GOOSE\\2023-03-03_garching_2-0153_1677850651958898400-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2023-03-03_garching_2-0153_1677850651958898400-pred.png",
+      "initial_bbox": [
+        0,
+        1,
+        1024,
+        500
+      ],
+      "coarse_score": 0.008290654979646206,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        1
+      ],
+      "refined_score": 0.03129450320828754,
+      "best_rotation_deg": 2.0,
+      "best_top_left_working": [
+        15,
+        10
+      ],
+      "best_top_left_original": [
+        30,
+        20
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.028906966802516136,
+        "2": 0.19409021663197035,
+        "3": 0.0,
+        "4": 1.0,
+        "5": 0.0,
+        "6": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2023-03-03_garching_2-0182_1677850839840090566",
+      "calib_path": "test_GOOSE\\2023-03-03_garching_2-0182_1677850839840090566-calib.json",
+      "image_path": "test_GOOSE\\2023-03-03_garching_2-0182_1677850839840090566-image.png",
+      "points_path": "test_GOOSE\\2023-03-03_garching_2-0182_1677850839840090566-points.bin",
+      "labels_path": "test_GOOSE\\2023-03-03_garching_2-0182_1677850839840090566-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2023-03-03_garching_2-0182_1677850839840090566-pred.png",
+      "initial_bbox": [
+        0,
+        0,
+        1024,
+        500
+      ],
+      "coarse_score": 0.22979161143302917,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        0
+      ],
+      "refined_score": 0.6750404316079482,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        -2,
+        2
+      ],
+      "best_top_left_original": [
+        -4,
+        4
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.23614532067999613,
+        "2": 1.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2023-03-03_garching_2-0187_1677850857647712469",
+      "calib_path": "test_GOOSE\\2023-03-03_garching_2-0187_1677850857647712469-calib.json",
+      "image_path": "test_GOOSE\\2023-03-03_garching_2-0187_1677850857647712469-image.png",
+      "points_path": "test_GOOSE\\2023-03-03_garching_2-0187_1677850857647712469-points.bin",
+      "labels_path": "test_GOOSE\\2023-03-03_garching_2-0187_1677850857647712469-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2023-03-03_garching_2-0187_1677850857647712469-pred.png",
+      "initial_bbox": [
+        0,
+        0,
+        1024,
+        500
+      ],
+      "coarse_score": 0.20194600522518158,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        0
+      ],
+      "refined_score": 0.8766623284947777,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        8,
+        4
+      ],
+      "best_top_left_original": [
+        16,
+        8
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.4798576339048796,
+        "2": 1.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2023-03-03_garching_2-0188_1677850862178992029",
+      "calib_path": "test_GOOSE\\2023-03-03_garching_2-0188_1677850862178992029-calib.json",
+      "image_path": "test_GOOSE\\2023-03-03_garching_2-0188_1677850862178992029-image.png",
+      "points_path": "test_GOOSE\\2023-03-03_garching_2-0188_1677850862178992029-points.bin",
+      "labels_path": "test_GOOSE\\2023-03-03_garching_2-0188_1677850862178992029-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2023-03-03_garching_2-0188_1677850862178992029-pred.png",
+      "initial_bbox": [
+        0,
+        3,
+        1024,
+        500
+      ],
+      "coarse_score": 0.15440355241298676,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        3
+      ],
+      "refined_score": 0.8127000275622523,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        5,
+        4
+      ],
+      "best_top_left_original": [
+        10,
+        8
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.2926486380415688,
+        "2": 1.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2023-03-03_garching_2-0214_1677851019926728208",
+      "calib_path": "test_GOOSE\\2023-03-03_garching_2-0214_1677851019926728208-calib.json",
+      "image_path": "test_GOOSE\\2023-03-03_garching_2-0214_1677851019926728208-image.png",
+      "points_path": "test_GOOSE\\2023-03-03_garching_2-0214_1677851019926728208-points.bin",
+      "labels_path": "test_GOOSE\\2023-03-03_garching_2-0214_1677851019926728208-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2023-03-03_garching_2-0214_1677851019926728208-pred.png",
+      "initial_bbox": [
+        0,
+        0,
+        1024,
+        500
+      ],
+      "coarse_score": 0.16981807351112366,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        0
+      ],
+      "refined_score": 0.7430538588763698,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        17,
+        9
+      ],
+      "best_top_left_original": [
+        34,
+        18
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.3393685946427307,
+        "2": 1.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2023-03-03_garching_2-0215_1677851028988754697",
+      "calib_path": "test_GOOSE\\2023-03-03_garching_2-0215_1677851028988754697-calib.json",
+      "image_path": "test_GOOSE\\2023-03-03_garching_2-0215_1677851028988754697-image.png",
+      "points_path": "test_GOOSE\\2023-03-03_garching_2-0215_1677851028988754697-points.bin",
+      "labels_path": "test_GOOSE\\2023-03-03_garching_2-0215_1677851028988754697-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2023-03-03_garching_2-0215_1677851028988754697-pred.png",
+      "initial_bbox": [
+        0,
+        0,
+        1024,
+        500
+      ],
+      "coarse_score": 0.17906245589256287,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        0
+      ],
+      "refined_score": 0.709141858986508,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        0,
+        -4
+      ],
+      "best_top_left_original": [
+        0,
+        -8
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.3092258866515763,
+        "2": 1.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2023-03-03_garching_2-0217_1677851034575092657",
+      "calib_path": "test_GOOSE\\2023-03-03_garching_2-0217_1677851034575092657-calib.json",
+      "image_path": "test_GOOSE\\2023-03-03_garching_2-0217_1677851034575092657-image.png",
+      "points_path": "test_GOOSE\\2023-03-03_garching_2-0217_1677851034575092657-points.bin",
+      "labels_path": "test_GOOSE\\2023-03-03_garching_2-0217_1677851034575092657-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2023-03-03_garching_2-0217_1677851034575092657-pred.png",
+      "initial_bbox": [
+        0,
+        0,
+        1024,
+        500
+      ],
+      "coarse_score": 0.17779135704040527,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        0
+      ],
+      "refined_score": 0.8022291231390924,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        13,
+        8
+      ],
+      "best_top_left_original": [
+        26,
+        16
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.31044366287180053,
+        "2": 1.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2023-03-03_garching_2-0219_1677851055860836569",
+      "calib_path": "test_GOOSE\\2023-03-03_garching_2-0219_1677851055860836569-calib.json",
+      "image_path": "test_GOOSE\\2023-03-03_garching_2-0219_1677851055860836569-image.png",
+      "points_path": "test_GOOSE\\2023-03-03_garching_2-0219_1677851055860836569-points.bin",
+      "labels_path": "test_GOOSE\\2023-03-03_garching_2-0219_1677851055860836569-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2023-03-03_garching_2-0219_1677851055860836569-pred.png",
+      "initial_bbox": [
+        0,
+        0,
+        1024,
+        500
+      ],
+      "coarse_score": 0.07216176390647888,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        0
+      ],
+      "refined_score": 0.671758595634358,
+      "best_rotation_deg": -6.0,
+      "best_top_left_working": [
+        9,
+        -13
+      ],
+      "best_top_left_original": [
+        18,
+        -26
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.19531039177251028,
+        "2": 1.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2023-05-15_neubiberg_rain-0648_1684157925585557385",
+      "calib_path": "test_GOOSE\\2023-05-15_neubiberg_rain-0648_1684157925585557385-calib.json",
+      "image_path": "test_GOOSE\\2023-05-15_neubiberg_rain-0648_1684157925585557385-image.png",
+      "points_path": "test_GOOSE\\2023-05-15_neubiberg_rain-0648_1684157925585557385-points.bin",
+      "labels_path": "test_GOOSE\\2023-05-15_neubiberg_rain-0648_1684157925585557385-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2023-05-15_neubiberg_rain-0648_1684157925585557385-pred.png",
+      "initial_bbox": [
+        0,
+        7,
+        1024,
+        500
+      ],
+      "coarse_score": 0.1591288149356842,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        7
+      ],
+      "refined_score": 0.47619153564624495,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        8,
+        5
+      ],
+      "best_top_left_original": [
+        16,
+        10
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.14719367063921635,
+        "2": 0.17741942902275085,
+        "3": 0.0,
+        "4": 0.17470403210037683,
+        "5": 0.20848729510649364,
+        "6": 0.33335538299383943,
+        "8": 0.6414550741982634,
+        "9": 1.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2023-05-15_neubiberg_rain-0673_1684158136666825123",
+      "calib_path": "test_GOOSE\\2023-05-15_neubiberg_rain-0673_1684158136666825123-calib.json",
+      "image_path": "test_GOOSE\\2023-05-15_neubiberg_rain-0673_1684158136666825123-image.png",
+      "points_path": "test_GOOSE\\2023-05-15_neubiberg_rain-0673_1684158136666825123-points.bin",
+      "labels_path": "test_GOOSE\\2023-05-15_neubiberg_rain-0673_1684158136666825123-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2023-05-15_neubiberg_rain-0673_1684158136666825123-pred.png",
+      "initial_bbox": [
+        0,
+        12,
+        1024,
+        500
+      ],
+      "coarse_score": 0.20609205961227417,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        12
+      ],
+      "refined_score": 0.5847869776308036,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        -2,
+        13
+      ],
+      "best_top_left_original": [
+        -4,
+        26
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.3442757181579658,
+        "2": 0.462873776460805,
+        "3": 0.0,
+        "4": 0.6204488262261983,
+        "5": 0.6203519953798456,
+        "6": 0.7551891093943487,
+        "8": 1.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2023-05-15_neubiberg_rain-0674_1684158138434495786",
+      "calib_path": "test_GOOSE\\2023-05-15_neubiberg_rain-0674_1684158138434495786-calib.json",
+      "image_path": "test_GOOSE\\2023-05-15_neubiberg_rain-0674_1684158138434495786-image.png",
+      "points_path": "test_GOOSE\\2023-05-15_neubiberg_rain-0674_1684158138434495786-points.bin",
+      "labels_path": "test_GOOSE\\2023-05-15_neubiberg_rain-0674_1684158138434495786-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2023-05-15_neubiberg_rain-0674_1684158138434495786-pred.png",
+      "initial_bbox": [
+        0,
+        1,
+        1024,
+        500
+      ],
+      "coarse_score": 0.03412903845310211,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        1
+      ],
+      "refined_score": 0.09654849554024643,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        0,
+        2
+      ],
+      "best_top_left_original": [
+        0,
+        4
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.01859416237349361,
+        "2": 0.023307856826159195,
+        "3": 0.0,
+        "4": 0.038856487055826235,
+        "5": 0.029032801688335944,
+        "6": 0.08451004145900078,
+        "8": 0.0742320858280271,
+        "9": 1.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2023-05-15_neubiberg_rain-0685_1684158196146477477",
+      "calib_path": "test_GOOSE\\2023-05-15_neubiberg_rain-0685_1684158196146477477-calib.json",
+      "image_path": "test_GOOSE\\2023-05-15_neubiberg_rain-0685_1684158196146477477-image.png",
+      "points_path": "test_GOOSE\\2023-05-15_neubiberg_rain-0685_1684158196146477477-points.bin",
+      "labels_path": "test_GOOSE\\2023-05-15_neubiberg_rain-0685_1684158196146477477-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2023-05-15_neubiberg_rain-0685_1684158196146477477-pred.png",
+      "initial_bbox": [
+        0,
+        7,
+        1024,
+        500
+      ],
+      "coarse_score": 0.09432189166545868,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        6
+      ],
+      "refined_score": 0.3285924565716903,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        17,
+        7
+      ],
+      "best_top_left_original": [
+        34,
+        14
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.12710236859112298,
+        "2": 0.22672250860224827,
+        "3": 0.0,
+        "4": 0.17114268283868167,
+        "5": 0.32067054277164786,
+        "6": 0.3098070192175789,
+        "8": 1.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2023-05-15_neubiberg_rain-0689_1684158220393488674",
+      "calib_path": "test_GOOSE\\2023-05-15_neubiberg_rain-0689_1684158220393488674-calib.json",
+      "image_path": "test_GOOSE\\2023-05-15_neubiberg_rain-0689_1684158220393488674-image.png",
+      "points_path": "test_GOOSE\\2023-05-15_neubiberg_rain-0689_1684158220393488674-points.bin",
+      "labels_path": "test_GOOSE\\2023-05-15_neubiberg_rain-0689_1684158220393488674-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2023-05-15_neubiberg_rain-0689_1684158220393488674-pred.png",
+      "initial_bbox": [
+        0,
+        14,
+        1024,
+        500
+      ],
+      "coarse_score": 0.17366920411586761,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        13
+      ],
+      "refined_score": 0.40526801917411226,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        -17,
+        15
+      ],
+      "best_top_left_original": [
+        -34,
+        30
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.13781696867384505,
+        "2": 0.13316765938875433,
+        "3": 0.0,
+        "4": 0.16455730761319198,
+        "5": 0.34899243326557455,
+        "6": 0.3203304428204446,
+        "8": 0.4165274863382172,
+        "9": 1.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2023-05-15_neubiberg_rain-0690_1684158222466299455",
+      "calib_path": "test_GOOSE\\2023-05-15_neubiberg_rain-0690_1684158222466299455-calib.json",
+      "image_path": "test_GOOSE\\2023-05-15_neubiberg_rain-0690_1684158222466299455-image.png",
+      "points_path": "test_GOOSE\\2023-05-15_neubiberg_rain-0690_1684158222466299455-points.bin",
+      "labels_path": "test_GOOSE\\2023-05-15_neubiberg_rain-0690_1684158222466299455-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2023-05-15_neubiberg_rain-0690_1684158222466299455-pred.png",
+      "initial_bbox": [
+        0,
+        18,
+        1024,
+        500
+      ],
+      "coarse_score": 0.18801970779895782,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        18
+      ],
+      "refined_score": 0.40357604105212946,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        -8,
+        20
+      ],
+      "best_top_left_original": [
+        -16,
+        40
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.180653822766778,
+        "2": 0.2141822067963705,
+        "3": 0.0,
+        "4": 0.23320938185417056,
+        "5": 1.0,
+        "6": 0.47310011916431693,
+        "8": 0.5652203235093437,
+        "9": 0.9973512043684253,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2023-05-15_neubiberg_rain-0693_1684158243088296567",
+      "calib_path": "test_GOOSE\\2023-05-15_neubiberg_rain-0693_1684158243088296567-calib.json",
+      "image_path": "test_GOOSE\\2023-05-15_neubiberg_rain-0693_1684158243088296567-image.png",
+      "points_path": "test_GOOSE\\2023-05-15_neubiberg_rain-0693_1684158243088296567-points.bin",
+      "labels_path": "test_GOOSE\\2023-05-15_neubiberg_rain-0693_1684158243088296567-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2023-05-15_neubiberg_rain-0693_1684158243088296567-pred.png",
+      "initial_bbox": [
+        0,
+        5,
+        1024,
+        500
+      ],
+      "coarse_score": 0.028042515739798546,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        5
+      ],
+      "refined_score": 0.07836063761630405,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        4,
+        7
+      ],
+      "best_top_left_original": [
+        8,
+        14
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.02033966998999159,
+        "2": 0.02736132808716533,
+        "3": 0.0,
+        "4": 0.019172820741215846,
+        "5": 1.0,
+        "6": 0.04152969370804454,
+        "8": 0.053446922650340914,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2023-05-17_neubiberg_sunny-0400_1684329810985941176",
+      "calib_path": "test_GOOSE\\2023-05-17_neubiberg_sunny-0400_1684329810985941176-calib.json",
+      "image_path": "test_GOOSE\\2023-05-17_neubiberg_sunny-0400_1684329810985941176-image.png",
+      "points_path": "test_GOOSE\\2023-05-17_neubiberg_sunny-0400_1684329810985941176-points.bin",
+      "labels_path": "test_GOOSE\\2023-05-17_neubiberg_sunny-0400_1684329810985941176-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2023-05-17_neubiberg_sunny-0400_1684329810985941176-pred.png",
+      "initial_bbox": [
+        0,
+        0,
+        1024,
+        500
+      ],
+      "coarse_score": 0.13478530943393707,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        0
+      ],
+      "refined_score": 0.3093603451771846,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        2,
+        4
+      ],
+      "best_top_left_original": [
+        4,
+        8
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.04836645814653295,
+        "2": 0.11061066166769225,
+        "3": 0.0,
+        "4": 1.0,
+        "5": 0.471502509395613,
+        "6": 0.49441135959779675,
+        "8": 0.28503139127384475,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2023-05-17_neubiberg_sunny-0408_1684329845682458115",
+      "calib_path": "test_GOOSE\\2023-05-17_neubiberg_sunny-0408_1684329845682458115-calib.json",
+      "image_path": "test_GOOSE\\2023-05-17_neubiberg_sunny-0408_1684329845682458115-image.png",
+      "points_path": "test_GOOSE\\2023-05-17_neubiberg_sunny-0408_1684329845682458115-points.bin",
+      "labels_path": "test_GOOSE\\2023-05-17_neubiberg_sunny-0408_1684329845682458115-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2023-05-17_neubiberg_sunny-0408_1684329845682458115-pred.png",
+      "initial_bbox": [
+        0,
+        75,
+        1024,
+        500
+      ],
+      "coarse_score": 0.223883718252182,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        75
+      ],
+      "refined_score": 0.5819578266675338,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        5,
+        77
+      ],
+      "best_top_left_original": [
+        10,
+        154
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.10098309972535416,
+        "2": 0.16794600592134068,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.36602703952166443,
+        "6": 0.7060090575912767,
+        "8": 1.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2023-05-17_neubiberg_sunny-0416_1684329867264213916",
+      "calib_path": "test_GOOSE\\2023-05-17_neubiberg_sunny-0416_1684329867264213916-calib.json",
+      "image_path": "test_GOOSE\\2023-05-17_neubiberg_sunny-0416_1684329867264213916-image.png",
+      "points_path": "test_GOOSE\\2023-05-17_neubiberg_sunny-0416_1684329867264213916-points.bin",
+      "labels_path": "test_GOOSE\\2023-05-17_neubiberg_sunny-0416_1684329867264213916-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2023-05-17_neubiberg_sunny-0416_1684329867264213916-pred.png",
+      "initial_bbox": [
+        0,
+        11,
+        1024,
+        500
+      ],
+      "coarse_score": 0.1561736762523651,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        10
+      ],
+      "refined_score": 0.42302043362682545,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        2,
+        9
+      ],
+      "best_top_left_original": [
+        4,
+        18
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.11795875519288737,
+        "2": 0.23960822720932165,
+        "3": 0.0,
+        "4": 0.2810586010224572,
+        "5": 0.3973782818287322,
+        "6": 1.0,
+        "8": 0.9761896100488952,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2023-05-17_neubiberg_sunny-0427_1684329917847527420",
+      "calib_path": "test_GOOSE\\2023-05-17_neubiberg_sunny-0427_1684329917847527420-calib.json",
+      "image_path": "test_GOOSE\\2023-05-17_neubiberg_sunny-0427_1684329917847527420-image.png",
+      "points_path": "test_GOOSE\\2023-05-17_neubiberg_sunny-0427_1684329917847527420-points.bin",
+      "labels_path": "test_GOOSE\\2023-05-17_neubiberg_sunny-0427_1684329917847527420-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2023-05-17_neubiberg_sunny-0427_1684329917847527420-pred.png",
+      "initial_bbox": [
+        0,
+        0,
+        1024,
+        500
+      ],
+      "coarse_score": 0.05275866016745567,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        0
+      ],
+      "refined_score": 0.23524550426277516,
+      "best_rotation_deg": -10.0,
+      "best_top_left_working": [
+        -6,
+        -7
+      ],
+      "best_top_left_original": [
+        -12,
+        -14
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.1256400076364664,
+        "2": 0.2305361111890296,
+        "3": 0.0,
+        "4": 0.21371872494774327,
+        "5": 0.0,
+        "6": 0.30379440145023634,
+        "8": 1.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2023-05-17_neubiberg_sunny-0434_1684329943943709425",
+      "calib_path": "test_GOOSE\\2023-05-17_neubiberg_sunny-0434_1684329943943709425-calib.json",
+      "image_path": "test_GOOSE\\2023-05-17_neubiberg_sunny-0434_1684329943943709425-image.png",
+      "points_path": "test_GOOSE\\2023-05-17_neubiberg_sunny-0434_1684329943943709425-points.bin",
+      "labels_path": "test_GOOSE\\2023-05-17_neubiberg_sunny-0434_1684329943943709425-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2023-05-17_neubiberg_sunny-0434_1684329943943709425-pred.png",
+      "initial_bbox": [
+        0,
+        0,
+        1024,
+        500
+      ],
+      "coarse_score": 0.1975715607404709,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        0
+      ],
+      "refined_score": 0.6239884593616127,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        10,
+        -1
+      ],
+      "best_top_left_original": [
+        20,
+        -2
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.19137401573581395,
+        "2": 0.23924718968477882,
+        "3": 0.0,
+        "4": 0.19672792421060278,
+        "5": 0.0,
+        "6": 0.27955839683748834,
+        "8": 1.0,
+        "9": 0.7108008906886494,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2023-05-17_neubiberg_sunny-0442_1684329963327103198",
+      "calib_path": "test_GOOSE\\2023-05-17_neubiberg_sunny-0442_1684329963327103198-calib.json",
+      "image_path": "test_GOOSE\\2023-05-17_neubiberg_sunny-0442_1684329963327103198-image.png",
+      "points_path": "test_GOOSE\\2023-05-17_neubiberg_sunny-0442_1684329963327103198-points.bin",
+      "labels_path": "test_GOOSE\\2023-05-17_neubiberg_sunny-0442_1684329963327103198-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2023-05-17_neubiberg_sunny-0442_1684329963327103198-pred.png",
+      "initial_bbox": [
+        561,
+        4,
+        1024,
+        500
+      ],
+      "coarse_score": 0.04745234176516533,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        124,
+        2
+      ],
+      "refined_score": 0.06886129302293492,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        123,
+        4
+      ],
+      "best_top_left_original": [
+        246,
+        8
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.03415930570258635,
+        "2": 0.09348516230636243,
+        "3": 0.0,
+        "4": 1.0,
+        "5": 0.0,
+        "6": 0.08325317404863698,
+        "8": 0.157766085656352,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2023-05-17_neubiberg_sunny-0447_1684329970581964440",
+      "calib_path": "test_GOOSE\\2023-05-17_neubiberg_sunny-0447_1684329970581964440-calib.json",
+      "image_path": "test_GOOSE\\2023-05-17_neubiberg_sunny-0447_1684329970581964440-image.png",
+      "points_path": "test_GOOSE\\2023-05-17_neubiberg_sunny-0447_1684329970581964440-points.bin",
+      "labels_path": "test_GOOSE\\2023-05-17_neubiberg_sunny-0447_1684329970581964440-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2023-05-17_neubiberg_sunny-0447_1684329970581964440-pred.png",
+      "initial_bbox": [
+        0,
+        1,
+        1024,
+        500
+      ],
+      "coarse_score": 0.11067085713148117,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        1
+      ],
+      "refined_score": 0.38135382055083494,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        7,
+        3
+      ],
+      "best_top_left_original": [
+        14,
+        6
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.05227519720055976,
+        "2": 0.10137604005982546,
+        "3": 0.0,
+        "4": 0.11149262285768986,
+        "5": 0.10705274838337697,
+        "6": 0.17868049494584368,
+        "8": 0.7216062748850108,
+        "9": 1.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "scene_id": "2023-05-17_neubiberg_sunny-0448_1684329971937901805",
+      "calib_path": "test_GOOSE\\2023-05-17_neubiberg_sunny-0448_1684329971937901805-calib.json",
+      "image_path": "test_GOOSE\\2023-05-17_neubiberg_sunny-0448_1684329971937901805-image.png",
+      "points_path": "test_GOOSE\\2023-05-17_neubiberg_sunny-0448_1684329971937901805-points.bin",
+      "labels_path": "test_GOOSE\\2023-05-17_neubiberg_sunny-0448_1684329971937901805-pred.label",
+      "rgb_seg_path": "test_GOOSE\\2023-05-17_neubiberg_sunny-0448_1684329971937901805-pred.png",
+      "initial_bbox": [
+        0,
+        0,
+        1024,
+        500
+      ],
+      "coarse_score": 0.132470041513443,
+      "coarse_angle": 0.0,
+      "coarse_top_left_full": [
+        0,
+        0
+      ],
+      "refined_score": 0.343553813177068,
+      "best_rotation_deg": 0.0,
+      "best_top_left_working": [
+        -2,
+        -4
+      ],
+      "best_top_left_original": [
+        -4,
+        -8
+      ],
+      "best_scale": 1.0,
+      "class_weights": {
+        "1": 0.08645887941552871,
+        "2": 0.1544096629924615,
+        "3": 0.0,
+        "4": 0.1766427987407455,
+        "5": 0.19355930457930265,
+        "6": 0.2207380439463074,
+        "8": 1.0,
+        "9": 0.6385570357695952,
+        "10": 0.0,
+        "11": 0.0
+      }
+    }
+  ],
+  "casos_error": [
+    {
+      "scene_id": "2023-05-17_neubiberg_sunny-0406_1684329843302899662",
+      "error": "No se pudo generar un patch válido en escena 2023-05-17_neubiberg_sunny-0406_1684329843302899662"
+    }
+  ]
+}
