@@ -60,7 +60,7 @@ def brain():
 
     # Configuración de la niebla (Clima)
     weather = carla.WeatherParameters(
-        fog_density=18.8,  
+        fog_density=85.8,  
         cloudiness=40.0,
         precipitation=0.0,
         precipitation_deposits=0.0,
