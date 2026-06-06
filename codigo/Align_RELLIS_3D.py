@@ -24,47 +24,58 @@ _G_MIN_VALID_PIXELS = None
 # CONFIGURACIÓN
 # =========================================================
 
-# The above code in Python defines three dictionaries:
-VALID_CLASSES = [1,2,3,4,5,6,7,8,9,10,11,12]
+# Todas las clases excepto void
+VALID_CLASSES = list(range(1, 20))
 
+# Remapeo identidad: no se agrupa ni se elimina ninguna clase
 ONTOLOGY_REMAP = {
-    0: 0,   # void
-    1: 1,   # dirt
-    2: 2,   # grass
-    3: 3,   # tree
-    4: 10,  # pole -> fence 
-    5: 8,   # water
-    6: 4,   # sky
-    7: 0,   # vehicle -> ignorar
-    8: 0,   # object -> ignorar
-    9: 5,   # asphalt
-    10: 6,  # building
-    11: 0,  # log
-    12: 7,  # person
-    13: 10, # fence
-    14: 12,  # bush
-    15: 0,  # concrete
-    16: 0,  # barrier
-    17: 9,  # puddle
-    18: 11, # mud
-    19: 0,  # rubble
+    0: 0,    # void
+    1: 1,    # dirt
+    2: 2,    # grass
+    3: 3,    # tree
+    4: 4,    # pole
+    5: 5,    # water
+    6: 6,    # sky
+    7: 7,    # vehicle
+    8: 8,    # object
+    9: 9,    # asphalt
+    10: 10,  # building
+    11: 11,  # log
+    12: 12,  # person
+    13: 13,  # fence
+    14: 14,  # bush
+    15: 15,  # concrete
+    16: 16,  # barrier
+    17: 17,  # puddle
+    18: 18,  # mud
+    19: 19,  # rubble
 }
 
+# Colores en formato BGR, porque cv2 usa BGR.
+# Tu ontology está en RGB, por eso aquí están invertidos.
 CLASS_COLOR_MAP = {
-    0: (0, 0, 0),          # void
-    1: (20, 64, 108),      # dirt
-    2: (0, 102, 0),        # grass
-    3: (0, 255, 0),        # tree
-    4: (255, 0, 0),        # sky
-    5: (64, 64, 64),       # asphalt
-    6: (0, 0, 255),        # building
-    7: (255, 153, 204),    # person
-    8: (255, 128, 0),      # water
-    9: (239, 255, 134),    # puddle
-    10: (204, 0, 102),     # fence
-    11: (34, 66, 99),      # mud
-    12: (204, 153, 255),   # bush
+    0:  (0, 0, 0),        # void       RGB: [0, 0, 0]
+    1:  (20, 64, 108),    # dirt       RGB: [108, 64, 20]
+    2:  (0, 102, 0),      # grass      RGB: [0, 102, 0]
+    3:  (0, 255, 0),      # tree       RGB: [0, 255, 0]
+    4:  (153, 153, 0),    # pole       RGB: [0, 153, 153]
+    5:  (255, 128, 0),    # water      RGB: [0, 128, 255]
+    6:  (255, 0, 0),      # sky        RGB: [0, 0, 255]
+    7:  (0, 255, 255),    # vehicle    RGB: [255, 255, 0]
+    8:  (127, 0, 255),    # object     RGB: [255, 0, 127]
+    9:  (64, 64, 64),     # asphalt    RGB: [64, 64, 64]
+    10: (0, 0, 255),      # building   RGB: [255, 0, 0]
+    11: (0, 0, 102),      # log        RGB: [102, 0, 0]
+    12: (255, 153, 204),  # person     RGB: [204, 153, 255]
+    13: (204, 0, 102),    # fence      RGB: [102, 0, 204]
+    14: (204, 153, 255),  # bush       RGB: [255, 153, 204]
+    15: (170, 170, 170),  # concrete   RGB: [170, 170, 170]
+    16: (255, 121, 41),   # barrier    RGB: [41, 121, 255]
+    17: (239, 255, 134),  # puddle     RGB: [134, 255, 239]
+    18: (34, 66, 99),     # mud        RGB: [99, 66, 34]
+    19: (138, 22, 110),   # rubble     RGB: [110, 22, 138]
 }
+
 
 def init_worker(
     big_labels,
