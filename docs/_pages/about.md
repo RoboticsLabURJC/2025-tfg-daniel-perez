@@ -3,8 +3,8 @@ permalink: /about/
 title: "About Me"
 ---
 
-Hola, soy Daniel, actualmente estoy cursando el ultmo curso del grado en Ingeniería en Sistemas Audiovisuales y multimedia en la Universidad Rey Juan Carlos.
+Hola, soy Dani. Actualmente estoy realizando mis prácticas en JdeRobot.
 
-Mi gusto y mi experiencia previa en el sector audiovisual me llevo a querer ampliar mis conocimiento en este campo. Tras quedarme sin empleo en la pandemia decidí lanzarme a este nuevo proyecto donde he abierto aun mas mi admiracion por el mundo audivisual y he conocido otro enorme horizonte.
+La realización de mi Trabajo de Fin de Grado me ha llevado a interesarme profundamente por la conducción autónoma, la investigación científica y, sobre todo, por el tratamiento de imagen. Estoy habituado a trabajar con PyTorch, así como al manejo de diversas herramientas de simulación y programación relacionadas con este sector.
 
-Ahora me encuento en busqueda de nuevas oportunidades para aplicar las habilidades adquridas en estos años y seguir creciendo en mi carrera profesiona.
+Paralelamente, compagino estas actividades con mi labor como profesor particular y con la investigación en diferentes áreas de las matemáticas.
